@@ -8,8 +8,8 @@ Okay, erstmal mache ich mich mit Markdown vertraut:
 
 #Heading
 
-*kursiv* , _fett_ 
-
+*kursiv* ,  
+_fett_
 [[das ist ein link]]
 
 nummerierte Liste: 

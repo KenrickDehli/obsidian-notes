@@ -13,7 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Datenbanken/Datenbanken.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6a8a2fc48d4199f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Datenbanken/TheoretischeGrundlagen.pdf"
+              }
+            }
+          },
+          {
+            "id": "2f87a3ce4e5aadc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenbanken/Aufgaben zur Selbstüberprüfung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Datenbanken/Datenbanken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Datenbanken/Datenbanken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Datenbanken/Datenbanken.md"
               }
             }
           }
@@ -146,8 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d341529fe786dbe4",
+  "active": "bfd6863312a8ba7c",
   "lastOpenFiles": [
+    "Datenbanken/Aufgaben zur Selbstüberprüfung.md",
+    "Datenbanken/Datenbanken.md",
+    "Datenbanken/TheoretischeGrundlagen.pdf",
+    "Welcome.md",
+    "BWL/Betriebswirtschaftslehre.md",
     "Projektideen.md",
     "WIKO/Wirtschaftskompetenz.md",
     "Netzwerkgrundlagen/Netzwerkgrundlagen.md"
