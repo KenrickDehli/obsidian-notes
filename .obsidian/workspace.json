@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenbanken/Datenbanken.md",
+                "file": "WIKO/Wirtschaftskompetenz.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenbanken/Datenbanken.md",
+                "file": "WIKO/Wirtschaftskompetenz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datenbanken/Datenbanken.md",
+                "file": "WIKO/Wirtschaftskompetenz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datenbanken/Datenbanken.md"
+                "file": "WIKO/Wirtschaftskompetenz.md"
               }
             }
           }
@@ -170,8 +170,8 @@
   },
   "active": "bfd6863312a8ba7c",
   "lastOpenFiles": [
-    "Datenbanken/Aufgaben zur Selbstüberprüfung.md",
     "Datenbanken/Datenbanken.md",
+    "Datenbanken/Aufgaben zur Selbstüberprüfung.md",
     "Datenbanken/TheoretischeGrundlagen.pdf",
     "Welcome.md",
     "BWL/Betriebswirtschaftslehre.md",
