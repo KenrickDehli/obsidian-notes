@@ -88,7 +88,30 @@ Ein Kaufvertrag sollte nur bei wichtigen Kaufverträgen schriftlich niedergelegt
 
 - Eigentumsvorbehalt → Verkäufer bleibt Eigentümer der gelieferten Ware bis zur vollständigen Bezahlung
 
+## Pflichtverletzung  Kaufvertrag
+Der Käufer hat einen Anspruch, dass die Ware in einem einwandfreien Zustand geliefert wird. Wurde diese **vereinbarte Beschaffenheit** nicht erfüllt, so liegt ein Sachmangel vor. Eine **mangelhafte Lieferung** kann entweder einen **Sachmangel**: 
+- schlechte Qualität
+- falsche Ware
+- zu wenig
+- nicht eingehaltene Werbeaussage
+- Montagemangel
+oder einen **Rechtsmangel** aufweisen. Kauft ein privater Käufer von einem Unternehmen ein im Rahmen eines **Verbrauchsgüterkauf** ein, so gilt grundsätzlich für neue Ware 2 Jahre Sachmangelhaftung und für gebrauchte Ware 1 Jahr. Allerdings gilt hier die **Beweislastumkehr**, wodurch der Händler im Streitfall die Fehlerfreiheit erstmal beweisen muss. 
 
+Härter sind die Bedingungen allerdings wenn im Handelsregister-eingetragene Unternehmer einkaufen. Hier muss der Mangel sofort entdeckt werden, da sonst die Ware als genehmigt gilt. Bei versteckten Mängeln, muss nach Entdeckung sofort gerügt werden. 
+
+**Ein Mangel wurde rechtzeitig gerügt, was sind nun die Rechte des Käufers?**
+1.  Nacherfüllung → Ersatzlieferung oder Reparatur
+2. Minderung, wenn der Nacherfüllung nach einer Frist nicht nachgegangen wurde
+3. Minderung oder Rücktritt + zusätzlich Schadensersatz
+
+### Arten von Verzug
+- Lieferungsverzug (Verkäufer) → Ware nicht zu einem bestimmten Zeitpunkt geliefert
+- Annahmeverzug (Käufer) → Ware nicht ordnungsgemäß und pünktlich angenommen
+- Zahlungsverzug (Käufer) → Käufer zahlt nicht 
+Für die vorangegangenen Verzüge gelten folgende Rechte: 
+- Lieferungsverzug (Käufer) → Nachfrist setzen (Nacherfüllung, Schadensersatz)  → Nach der Frist, Lieferung ablehnen, zurücktreten oder Schadensersatz verlangen
+- Annahmeverzug (Verkäufer) → Ware in Verwahrung nehmen und auf Abnahme klagen, Schadensersatz, Vertrag zurücktreten
+- Zahlungsverzug (Verkäufer) → Zahlung und/oder Schadensersatz verlangen, Vertrag zurücktreten, Ware nach Nachfrist zurücknehmen 
 
 
 
