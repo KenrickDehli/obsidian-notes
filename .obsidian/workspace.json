@@ -11,6 +11,46 @@
             "id": "bfd6863312a8ba7c",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "WIKO/assets/Pachtvertrag.png"
+              }
+            }
+          },
+          {
+            "id": "12b8ef7bfa3a0591",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "WIKO/assets/Mietvertrag.png"
+              }
+            }
+          },
+          {
+            "id": "a2f405d634065ec3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "WIKO/assets/Leihvertrag.png"
+              }
+            }
+          },
+          {
+            "id": "4f0cf8022ed2856d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "WIKO/assets/Dienstvertrag.png"
+              }
+            }
+          },
+          {
+            "id": "437acd6d45775c23",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "WIKO/Wirtschaftskompetenz.md",
@@ -41,7 +81,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -168,15 +209,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfd6863312a8ba7c",
+  "active": "437acd6d45775c23",
   "lastOpenFiles": [
+    "WIKO/assets/Darlehensvertrag.png",
+    "WIKO/assets/Dienstvertrag.png",
+    "WIKO/assets/Leihvertrag.png",
+    "WIKO/assets/Mietvertrag.png",
+    "WIKO/assets/Pachtvertrag.png",
+    "WIKO/assets/Werkvertrag.png",
+    "WIKO/assets",
+    "WIKO/Wirtschaftskompetenz.md",
     "Datenbanken/Datenbanken.md",
     "Datenbanken/Aufgaben zur Selbstüberprüfung.md",
     "Datenbanken/TheoretischeGrundlagen.pdf",
     "Welcome.md",
     "BWL/Betriebswirtschaftslehre.md",
     "Projektideen.md",
-    "WIKO/Wirtschaftskompetenz.md",
     "Netzwerkgrundlagen/Netzwerkgrundlagen.md"
   ]
 }

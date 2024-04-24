@@ -112,6 +112,41 @@ Für die vorangegangenen Verzüge gelten folgende Rechte:
 - Lieferungsverzug (Käufer) → Nachfrist setzen (Nacherfüllung, Schadensersatz)  → Nach der Frist, Lieferung ablehnen, zurücktreten oder Schadensersatz verlangen
 - Annahmeverzug (Verkäufer) → Ware in Verwahrung nehmen und auf Abnahme klagen, Schadensersatz, Vertrag zurücktreten
 - Zahlungsverzug (Verkäufer) → Zahlung und/oder Schadensersatz verlangen, Vertrag zurücktreten, Ware nach Nachfrist zurücknehmen 
+## Mietvertrag
+*Im Mietvertrag verpflichtet sich der Vermieter, dem Mieter den Gebrauch einer Sache zu gestatten. Hierfür erhält er ein Entgelt.*
+- grundsätzlich formfrei
+- endet nach Ablauf der vereinbarten Mietzeit oder durch Kündigung
+- Eigenbedarf möglich, bei Beachtung der Sozialklausel
+Pflicht der Vertragspartner: 
+- Vermieter → Überlassung und im benutzbaren Zustand erhalten 
+- Mieter → Zahlt Mietzins und gibt die Sache am Ende wieder zurück![[Mietvertrag.png]]
+## Pachtvertrag
+Unterschied zum Mietvertrag besteht darin, dass der Pächter nicht nur Gebrauch, sonder auch der Ertrag daraus zusteht. 
+![[Pachtvertrag.png]]
+## Leihvertrag
+unentgeltlichen Überlassung einer Sache. Bei Beschädigung muss der Entleier den Schaden ersetzen.
+![[Leihvertrag.png]]
+## Werkvertrag 
+Unternehmer verpflichtet sich zur Erstellung eines Werkes. Auftraggeber zahlt eine Vergütung, wenn der vereinbarte Erfolg eingetreten ist. 
+Pflichten des **Bestellers**: 
+- vertragsmäßig gelieferte Werk abnehmen *oder* eine **Fertigstellungsbescheinigung** erteilen lassen
+- Vergütung zahlen
+- bei Nichterfüllung seine Rechte als Käufer ausüben
+Pflichten des **Unternehmers**: 
+- Werk rechtzeitig und mangelfrei herstellen
+- bei Nacherfüllung für die Kosten aufkommen
+
+![[Werkvertrag.png]]
+
+## Dienstvertrag
+Eine Person verpflichtet sich zur Leistung von Diensten gegen Entgelt. Erfolg des Dienstes sagt dabei nichts über die Erfüllung des Vertrags aus. 
+
+
+![[Dienstvertrag.png]]
+## Darlehensvertrag
+Darlehensgeber verpflichtet sich entgeltlich oder unentgeltlich Sachen zum Verbrauch zu überlassen. Darlehensnehmer verpflichtet sich gleichartige Sachen nach einer bestimmten Zeit zurückzugeben. 
+![[Darlehensvertrag.png]]
+
 
 
 
