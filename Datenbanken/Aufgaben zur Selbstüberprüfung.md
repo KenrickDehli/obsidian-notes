@@ -56,3 +56,21 @@ auch in der Spalte Id der Tabelle KUNDEN vorkommen. → Analog zu ArtikelId
 - LfdNr muss >= 0 sein. 
 ## 3.3
 es ist a)
+
+## 4.1 
+a) 
+A X B = {(1, eins), (2, eins), (3, eins), (1, zwei), (2, zwei), (3, zwei)}
+b) 
+Ja, R ist eine Relation , da R eine Teilmenge von A X B ist: R:= {(1,eins),(2,zwei)} ⊆ A X B.
+c) 
+
+| Zahl | Name |
+| ---- | ---- |
+| 1    | eins |
+| 2    | zwei |
+d) 
+soviel, wie die Kardinalität des kartesischen Produkts ergibt: 
+$$
+6\times4\times2 = 48 
+$$
+

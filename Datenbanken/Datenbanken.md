@@ -3,7 +3,7 @@
 [[TheoretischeGrundlagen.pdf#page=13&selection=7,0,37,43|Zusammenfassung Kapitel 1 ]]
 [[TheoretischeGrundlagen.pdf#page=18&selection=47,0,47,15|Zusammenfassung Kapitel 2]]
 [[TheoretischeGrundlagen.pdf#page=32&selection=7,0,7,15|Zusammenfassung Kapitel 3]]
-
+[[TheoretischeGrundlagen.pdf#page=45&selection=68,0,68,15|Zusammenfassung Kapitel 4]]
 ## Kapitel 1
 Forderung an Datenbanken: 
 - Die Daten müssen persistent gespeichert werden
@@ -90,5 +90,40 @@ Integrität.**
 3. Alle weiteren Bedingungen, die beim Anlegen einer Tabelle festgelegt wur-
 den, sind erfüllt. Mit anderen Worten: Die restlichen Constraints sind er-
 füllt.
+
+## Kapitel 4 - Tabellen und Relationen
+### Kartesisches Produkt vs. Relation
+Ein Kartesisches Produkt betrachtet **alle** Kombinationen der Elemente von bestimmten Mengen. Die Relation ist dabei eine Teilmenge des kartesischen Produkts und betrachtet diejenigen Elemente, die für uns Relevant sind. Die Tupelkombinationen stehen bei einer Relation  zueinander in Beziehung. Man gibt dann dieser Beziehung den Namen der Relation.
+[[TheoretischeGrundlagen.pdf#page=38&selection=114,0,114,63|Definition -  Tabellendarstellung.]]
+[[TheoretischeGrundlagen.pdf#page=38&selection=116,0,164,0|Definition - Relation]]
+[[TheoretischeGrundlagen.pdf#page=39&selection=152,0,152,10|Beispiel Relation]]
+### Datenbankrelation
+*Datenbankrelationen sind Mengen.* → Erinnerung: Mengenelemente sind wohl-unterschieden.
+- [[TheoretischeGrundlagen.pdf#page=41&selection=97,0,156,20|Definition - Datenbankrelation]] → Namen der Spalten A1 bis An sind eindeutig und verschieden.
+**Nach nach unserer Definition ist jede Spalte eine Menge!**
+- [[TheoretischeGrundlagen.pdf#page=41&selection=25,0,25,42|Bsp. Definition einer DB-Relation.]]
+- [[TheoretischeGrundlagen.pdf#page=42&selection=39,0,136,12|Warum NULL in der Relationensprache Unsinn ist.]]
+#### Datenbankrelation vs Datenbanktabelle
+Eine Datenbankrelation ist potentiell unendlich wobei die Datenbanktabelle eine Darstellung der DB-Relation sein soll und nur endlich viele Elemente hat. Man kann sagen, durch die Präsentation einer Datenbankrelation durch eine Datenbanktabelle geht eine gewisse Abstraktion verloren. 
+
+Verwendet man nun bspw. SQL, so kann man mit einer Anfrage gleiche Elemente erfragen. Dies verstößt allerdings gegen die Eigenschaft von Mengen und deren Elementen. Also sollte man sich dies bei Anfragen an bspw. SQL in Erinnerung rufen und einen Befehl wie DISTINCT verwenden um mehrfach vorkommende Tabellenzeilen zu verhindern (Sonst verschwindet auch die eindeutige Zuordnung).
+
+- [[TheoretischeGrundlagen.pdf#page=44&selection=77,0,81,46|Ergebnis von Abbildungen und Operatoren.]]
+- [[TheoretischeGrundlagen.pdf#page=45&selection=83,0,96,45|Definition - Kardinalität]] → Anzahl der Elemente der Relation.
+- [[TheoretischeGrundlagen.pdf#page=45&selection=98,0,108,44|Definition - Grad]] → Anzahl der Spalten.
+
+### Das relationale Modell
+[[TheoretischeGrundlagen.pdf#page=45&selection=23,0,66,38|Definition - Das relationale Modell]]
+1. strukturelle Aspekt
+2. manipulativer Aspekt
+3. Integrität
+
+## Kapitel 5 - Relationale Operatoren 
+
+
+
+
+
+
 
 

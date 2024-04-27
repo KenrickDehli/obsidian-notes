@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a80f02a59140da45",
+        "id": "d4d7f2c172f44731",
         "type": "tabs",
         "children": [
           {
-            "id": "bfd6863312a8ba7c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "WIKO/assets/Pachtvertrag.png"
-              }
-            }
-          },
-          {
-            "id": "12b8ef7bfa3a0591",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "WIKO/assets/Mietvertrag.png"
-              }
-            }
-          },
-          {
-            "id": "a2f405d634065ec3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "WIKO/assets/Leihvertrag.png"
-              }
-            }
-          },
-          {
-            "id": "4f0cf8022ed2856d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "WIKO/assets/Dienstvertrag.png"
-              }
-            }
-          },
-          {
-            "id": "437acd6d45775c23",
+            "id": "177cdf145b8510f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIKO/Wirtschaftskompetenz.md",
+                "file": "Datenbanken/Datenbanken.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e6a8a2fc48d4199f",
+            "id": "e898991b51f33679",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -70,7 +30,7 @@
             }
           },
           {
-            "id": "2f87a3ce4e5aadc8",
+            "id": "61a2f0c117be1f38",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIKO/Wirtschaftskompetenz.md",
+                "file": "Datenbanken/Datenbanken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIKO/Wirtschaftskompetenz.md",
+                "file": "Datenbanken/Datenbanken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIKO/Wirtschaftskompetenz.md"
+                "file": "Datenbanken/Datenbanken.md"
               }
             }
           }
@@ -209,8 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "437acd6d45775c23",
+  "active": "177cdf145b8510f7",
   "lastOpenFiles": [
+    "Datenbanken/Aufgaben zur Selbstüberprüfung.md",
+    "Datenbanken/TheoretischeGrundlagen.pdf",
+    "Datenbanken/Datenbanken.md",
+    "Datenbanken/Fragen.md",
+    "Lernplan AP2.md",
+    "To-Do's.md",
+    "WIKO/Wirtschaftskompetenz.md",
     "WIKO/assets/Darlehensvertrag.png",
     "WIKO/assets/Dienstvertrag.png",
     "WIKO/assets/Leihvertrag.png",
@@ -218,10 +184,6 @@
     "WIKO/assets/Pachtvertrag.png",
     "WIKO/assets/Werkvertrag.png",
     "WIKO/assets",
-    "WIKO/Wirtschaftskompetenz.md",
-    "Datenbanken/Datenbanken.md",
-    "Datenbanken/Aufgaben zur Selbstüberprüfung.md",
-    "Datenbanken/TheoretischeGrundlagen.pdf",
     "Welcome.md",
     "BWL/Betriebswirtschaftslehre.md",
     "Projektideen.md",
