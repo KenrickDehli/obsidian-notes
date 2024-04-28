@@ -13,36 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenbanken/Datenbanken.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e898991b51f33679",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Datenbanken/TheoretischeGrundlagen.pdf"
-              }
-            }
-          },
-          {
-            "id": "61a2f0c117be1f38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenbanken/Aufgaben zur Selbstüberprüfung.md",
+                "file": "Netzwerktechnik/Aus der Berufsschule.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenbanken/Aufgaben zur Selbstüberprüfung.md",
+                "file": "Netzwerktechnik/Aus der Berufsschule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datenbanken/Aufgaben zur Selbstüberprüfung.md",
+                "file": "Netzwerktechnik/Aus der Berufsschule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datenbanken/Aufgaben zur Selbstüberprüfung.md"
+                "file": "Netzwerktechnik/Aus der Berufsschule.md"
               }
             }
           }
@@ -170,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61a2f0c117be1f38",
+  "active": "177cdf145b8510f7",
   "lastOpenFiles": [
+    "Netzwerktechnik/Netzwerkgrundlagen.md",
     "Datenbanken/TheoretischeGrundlagen.pdf",
     "Datenbanken/Aufgaben zur Selbstüberprüfung.md",
+    "Netzwerktechnik/Aus der Berufsschule.md",
     "Datenbanken/Datenbanken.md",
     "BWL/Betriebswirtschaftslehre.md",
     "Datenbanken/Fragen.md",
@@ -188,7 +166,6 @@
     "WIKO/assets/Werkvertrag.png",
     "WIKO/assets",
     "Welcome.md",
-    "Projektideen.md",
-    "Netzwerkgrundlagen/Netzwerkgrundlagen.md"
+    "Projektideen.md"
   ]
 }

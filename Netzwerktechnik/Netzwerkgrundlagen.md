@@ -18,29 +18,28 @@ Um die Ebenen eines Netzwerks auseinanderhalten zu können, bedient man sich sog
 6. Darstellungsschicht → Presentation Layer
 7. Anwendungsschicht → Application Layer
 
- #### Bit-Übertragungsschicht
+#### 1. Bit-Übertragungsschicht
  - beschreibt wie die Übertragung von Daten elektrisch bzw. physikalisch erfolgt. OSI-basierte Netzwerkstandards beschreiben hier die Struktur der Signale. 
  - Kabel, Lichtwellenleiter, Funk oder Ähnliches
- #### Sicherungsschicht
+#### 2. Sicherungsschicht
  - beschreibt Vorkehrungen, die dafür sorgen, dass aus den einzelnen zu übertragenden Bits, ein verlässlicher Datenfluss wird. 
  - dazu gehört die Media Access Control MAC, wenn mehrere Geräte denselben Kanal verwenden, sowie Logical Link Control LLC, bei der es um die Herstellung und Aufrechterhaltung von Verbindungen zwischen den Geräten geht. 
  - Viele Protokolle implementieren auf dieser Schicht eine Fehlerkontrolle
  - Protokolle: Ethernet, Token Ring
- #### Netzwerkschicht
+#### 3. Netzwerkschicht
  - definiert diejenigen Komponenten und Protokolle des Netzwerks, die an der indirekten Verbindung von Computern beteiligt sind. 
  -  hier ist Routing erforderlich
  - IP-Protokoll 
- ### Transportschicht
+#### 4. Transportschicht
  - Multiplexmechanismen, die die Anbindung der Datenpakete an konkrete Prozesse auf den kommunizierenden Rechnern ermöglicht (Ports)
  - Verbindungslose Protokolle wie UDP
  - Verbindungsorientierte Protokolle wie TCP (Gewährleistung das Pakete vollständig am Ziel ankommen)
- - 
- #### Sicherungsschicht
+#### 5. Sicherungsschicht
  - stellt kontinuierliche Kommunikation zwischen kooperierenden Anwendungen oder Prozessen zwischen verschiedenen Rechnern sicher
 - Tokens und Protokolle
-#### Darstellungsschicht
+#### 6. Darstellungsschicht
 - Konvertierung und Übertragung von Datenformaten, Zeichensätzen, grafischen Anweisungen und Dateidiensten → ASCII, Unicode etc. 
-#### Anwendungsschicht
+#### 7. Anwendungsschicht
 - unmittelbare Kommunikation zwischen den Benutzeroberflächen der Anwendungsprogramme
 ### Schichtenmodell der Internetprotokolle
 Im Bereich der TCP/IP Netzwerkprotokolle, wir häufig ein Modell aus nur vier Schichten verwendet (nach DDN):
