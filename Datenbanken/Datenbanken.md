@@ -4,6 +4,11 @@
 [[TheoretischeGrundlagen.pdf#page=18&selection=47,0,47,15|Zusammenfassung Kapitel 2]]
 [[TheoretischeGrundlagen.pdf#page=32&selection=7,0,7,15|Zusammenfassung Kapitel 3]]
 [[TheoretischeGrundlagen.pdf#page=45&selection=68,0,68,15|Zusammenfassung Kapitel 4]]
+[[TheoretischeGrundlagen.pdf#page=62&selection=20,0,20,15|Zusammenfassung Kapitel 5]]
+## Random Gedanken
+- Hinter Relationen versteckt sich die relationale Algebra
+- Alle Relationen geben Relationen zurück. Analog für Tabellen
+- Eine Datenbanksprache muss die grundlegenden Operatoren abbilden können. 
 ## Kapitel 1
 Forderung an Datenbanken: 
 - Die Daten müssen persistent gespeichert werden
@@ -119,6 +124,30 @@ Verwendet man nun bspw. SQL, so kann man mit einer Anfrage gleiche Elemente erfr
 3. Integrität
 
 ## Kapitel 5 - Relationale Operatoren 
+### Warum Operatoren?
+Zur Vermeidung von Datenredundanzen verteilt man die gewünschten Daten auf mehrere Tabellen. Um diese wieder auf verständliche Weise zusammenführen zu können, benötigt man Operatoren. Allerdings sind relationale Operatoren auch nützlich für "[[TheoretischeGrundlagen.pdf#page=61&selection=68,0,100,10|theoretische Zwecke]]":
+[[TheoretischeGrundlagen.pdf#page=47&selection=85,0,113,3|Definition - Rel]]
+[[TheoretischeGrundlagen.pdf#page=48&selection=143,0,163,4|Definition - typ- und union-kompatibel]] → 2 Teilmengen aus gleichem Kreuzprodukt
+[[TheoretischeGrundlagen.pdf#page=48&selection=52,1,111,1|Definition - Union]] → UNION(R,S) Vereinigungsmenge der Relationen R und S
+[[TheoretischeGrundlagen.pdf#page=49&selection=32,0,87,1|Definition - Intersection]] → INTERSECTION(R,S) Schnittmenge der Relationen R und S
+[[TheoretischeGrundlagen.pdf#page=49&selection=128,0,199,2|Definition - Difference]] → DIFFERENCE(R,S) Differenz der Relationen R ohne S
+- Union, Intersection und Difference sind nur möglich wenn R und S auch Teilmengen desselben kartesischen Produkts sind!
+[[TheoretischeGrundlagen.pdf#page=51&selection=177,0,266,24|Definition - Product]] → PRODUCT(R, S) das kartesische Produkt aus den Relationen R und S
+- Das Kartesische Produkt zu bilden scheint auf den ersten Blick sinnlos, da man ja alles mit allem mischt. Allerdings stellt das Produkt die Basis der weiteren Operatoren dar, für die man eine gewisse typ- und unions-Kompatibilität benötigt.
+ [[TheoretischeGrundlagen.pdf#page=53&selection=22,0,96,1|Definition - Restrict]] → Teilmenge einer Relation mit Elementen, die eine gewisse Bedingung erfüllen. Analog zu SQL WHERE
+ [[TheoretischeGrundlagen.pdf#page=53&selection=122,0,139,16|Beispiel - Definierte Restriktion]]
+ [[TheoretischeGrundlagen.pdf#page=55&selection=48,0,85,19|Definition - Projektion]] → PROJECT(R) projiziert eine Relation auf eine Menge und macht deren Elemente dadurch "schmaler". 
+ [[TheoretischeGrundlagen.pdf#page=56&selection=4,1,13,10|Beispiel - Projektion]]
+ [[TheoretischeGrundlagen.pdf#page=58&selection=47,1,196,1|Definition - Natural Join, einfache Form]] → nur über ein Attributpaar, R NATURAL JOIN S R.Ai = S.Bj. Reihenfolge dabei: 
+ 1. Produkt
+ 2. Restriktion
+ 3. Projektion
+[[TheoretischeGrundlagen.pdf#page=58&selection=200,0,200,49|Beispiel - Natural Join einfache Form]]
+[[TheoretischeGrundlagen.pdf#page=59&selection=77,0,77,51|Definition - Natural Join, allgemeine Form]] → Gruppe von Attributpaaren erlaubt
+[[TheoretischeGrundlagen.pdf#page=60&selection=112,0,112,14|Definition - Theta Joins]] → Theta bedeutet hier, ein beliebiger Vergleichsoperator aus der Menge {<, <=, =, !=, >, >=}
+EQUIJOIN → Natural Join ohne abschließende Projektion
+[[TheoretischeGrundlagen.pdf#page=61&selection=25,0,37,1|Beispiel - Divide]]
+
 
 
 

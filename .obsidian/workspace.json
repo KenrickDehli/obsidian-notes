@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenbanken/Datenbanken.md",
+                "file": "Datenbanken/Aufgaben zur Selbstüberprüfung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datenbanken/Datenbanken.md",
+                "file": "Datenbanken/Aufgaben zur Selbstüberprüfung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datenbanken/Datenbanken.md"
+                "file": "Datenbanken/Aufgaben zur Selbstüberprüfung.md"
               }
             }
           }
@@ -168,11 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "177cdf145b8510f7",
+  "active": "61a2f0c117be1f38",
   "lastOpenFiles": [
-    "Datenbanken/Aufgaben zur Selbstüberprüfung.md",
     "Datenbanken/TheoretischeGrundlagen.pdf",
+    "Datenbanken/Aufgaben zur Selbstüberprüfung.md",
     "Datenbanken/Datenbanken.md",
+    "BWL/Betriebswirtschaftslehre.md",
     "Datenbanken/Fragen.md",
     "Lernplan AP2.md",
     "To-Do's.md",
@@ -185,7 +188,6 @@
     "WIKO/assets/Werkvertrag.png",
     "WIKO/assets",
     "Welcome.md",
-    "BWL/Betriebswirtschaftslehre.md",
     "Projektideen.md",
     "Netzwerkgrundlagen/Netzwerkgrundlagen.md"
   ]

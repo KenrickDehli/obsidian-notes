@@ -74,3 +74,21 @@ $$
 6\times4\times2 = 48 
 $$
 
+## 5.1
+a)
+Gebe mir alle ARTIKEL WHERE Bestellungen.ArtikelId = Artikel.id
+
+b)
+PROJECT ( ARTIKEL EQUIJOIN BESTELLUNGEN ON Bestellungen.ArtikelId = Artikel.Id ) (Alle Attribute von ARTIKEL)
+
+c)
+PROJECT(Artikel x Bestellungen WHERE Artikel.id = Bestellungen.ArtikelId) (*schreibe hier alle Attribute von Artikel auf mit komma als Separator*.)
+
+## 5.2
+Kardinalität = 300 
+Grad = 9
+
+## 5.3
+Der einzig sinnvolle natural join zwischen Artikel und Artikelgruppe ist der einfache natürliche join, da man nur ein Paar miteinander verbinden muss. Der natürliche join beschreibt die sequentielle Ausführung von Product (kartesisches Produkt), Restriction (Restriktion) und Project (Projektion). Der letze Schritt deshalb, weil man in der Darstellung Spalten mit den gleichen Informationen vermeiden will. 
+1. PROJECT(RESTRICTION(PRODUCT(Artikel, Artikelgruppe), Artikel.grupId = Artikelgruppe.id)) (alle Attribute von Artikel)
+2. Artikel NATURAL JOIN Artikelgruppe ON Artikel.grupID = Artikelgr.id
