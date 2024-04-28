@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d4d7f2c172f44731",
+        "id": "0bf56aa3ffcab594",
         "type": "tabs",
         "children": [
           {
-            "id": "177cdf145b8510f7",
+            "id": "4c93efb6cbf5a97f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Netzwerktechnik/Aus der Berufsschule.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Netzwerktechnik/Aus der Berufsschule.md",
+                "file": "Netzwerktechnik/Netzwerkgrundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Netzwerktechnik/Aus der Berufsschule.md",
+                "file": "Netzwerktechnik/Netzwerkgrundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Netzwerktechnik/Aus der Berufsschule.md"
+                "file": "Netzwerktechnik/Netzwerkgrundlagen.md"
               }
             }
           }
@@ -146,18 +142,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "177cdf145b8510f7",
+  "active": "d341529fe786dbe4",
   "lastOpenFiles": [
-    "Netzwerktechnik/Netzwerkgrundlagen.md",
-    "Datenbanken/TheoretischeGrundlagen.pdf",
-    "Datenbanken/Aufgaben zur Selbstüberprüfung.md",
+    "Netzwerktechnik/Freestyle (muss nicht richtig sein).md",
     "Netzwerktechnik/Aus der Berufsschule.md",
+    "WIKO/Wirtschaftskompetenz.md",
     "Datenbanken/Datenbanken.md",
+    "Datenbanken/TheoretischeGrundlagen.pdf",
+    "Netzwerktechnik/Netzwerkgrundlagen.md",
+    "Datenbanken/Aufgaben zur Selbstüberprüfung.md",
     "BWL/Betriebswirtschaftslehre.md",
     "Datenbanken/Fragen.md",
     "Lernplan AP2.md",
     "To-Do's.md",
-    "WIKO/Wirtschaftskompetenz.md",
     "WIKO/assets/Darlehensvertrag.png",
     "WIKO/assets/Dienstvertrag.png",
     "WIKO/assets/Leihvertrag.png",
