@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0bf56aa3ffcab594",
+        "id": "0d1e86e7da6ddd25",
         "type": "tabs",
         "children": [
           {
-            "id": "4c93efb6cbf5a97f",
+            "id": "06c907704def7a27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lernplan AP2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Netzwerktechnik/Netzwerkgrundlagen.md",
+                "file": "Lernplan AP2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Netzwerktechnik/Netzwerkgrundlagen.md",
+                "file": "Lernplan AP2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Netzwerktechnik/Netzwerkgrundlagen.md"
+                "file": "Lernplan AP2.md"
               }
             }
           }
@@ -142,19 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d341529fe786dbe4",
+  "active": "06c907704def7a27",
   "lastOpenFiles": [
-    "Netzwerktechnik/Freestyle (muss nicht richtig sein).md",
+    "Projektideen.md",
+    "To-Do's.md",
+    "Software Engineering/OOP.md",
+    "Software Engineering/Aus der Berufsschule.md",
+    "Lernplan AP2.md",
+    "Untitled.md",
+    "Software Engineering",
     "Netzwerktechnik/Aus der Berufsschule.md",
+    "Netzwerktechnik/Netzwerkgrundlagen.md",
+    "Netzwerktechnik/Freestyle (muss nicht richtig sein).md",
     "WIKO/Wirtschaftskompetenz.md",
     "Datenbanken/Datenbanken.md",
     "Datenbanken/TheoretischeGrundlagen.pdf",
-    "Netzwerktechnik/Netzwerkgrundlagen.md",
     "Datenbanken/Aufgaben zur Selbstüberprüfung.md",
     "BWL/Betriebswirtschaftslehre.md",
     "Datenbanken/Fragen.md",
-    "Lernplan AP2.md",
-    "To-Do's.md",
     "WIKO/assets/Darlehensvertrag.png",
     "WIKO/assets/Dienstvertrag.png",
     "WIKO/assets/Leihvertrag.png",
@@ -162,7 +171,6 @@
     "WIKO/assets/Pachtvertrag.png",
     "WIKO/assets/Werkvertrag.png",
     "WIKO/assets",
-    "Welcome.md",
-    "Projektideen.md"
+    "Welcome.md"
   ]
 }

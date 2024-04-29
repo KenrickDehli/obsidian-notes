@@ -4,6 +4,9 @@
 - UML
 - ER-Modell/Relationenmodell
 - Subnetting
+## Themen die schon drankamen
+- SQL Injection
+- CMS
 ## Prioritäten
 Langzeitgedächtnis:
 1. Datenbanken
