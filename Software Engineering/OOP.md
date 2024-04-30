@@ -12,6 +12,9 @@ Einer der größten Vorteile der Vererbung ist es, das man für zukünftige Klas
 Objekte können nicht nur als Instanzen ihrer eigenen Klasse betrachtet werden, sondern auch als Instanzen übergeordneter Klassen oder Interfaces.
 Polymorphie erlaubt es uns, Methoden abgeleiteter Klassen aufzurufen, obwohl wir nur eine Referenzvariable der Basisklasse zur Verfügung haben.
 # Abstrakte Klassen
+
+^0e8954
+
 Eine abstrakte Klasse ist eine Klasse, die nicht instanziiert werden kann. Der Nutzen ergibt sich aus dem Konzept der Polymorphie: Man kann Methoden auf einem Objekt ausführen, ohne zu wissen, welche (abgeleitete) Klasse dahintersteckt. Dies ermöglicht eine flexible und effiziente Nutzung von Klassenhierarchien.
 
 Im Kontext der Polymorphie könnte eine Methode wie tier.jump() aufgerufen werden, ohne zu spezifizieren, ob es sich um eine Katze, einen Hund oder ein anderes Tier handelt. Entscheidend ist, dass das Tier springen kann.
@@ -28,6 +31,9 @@ Regeln für eine abstrakte Klasse:
 - Abgeleitete Klassen müssen abstrakte Methoden überschreiben (In machen Sprachen ist es nur optional).
 - Die Klasse selbst muss als abstrakt deklariert werden (abstract class).
 # Interfaces
+
+^4ee3d2
+
 In der Realität trifft man häufig auf die Situation, dass verschiedene Objekte ein ähnliches Verhalten zeigen sollen, aber eigentlich nicht sinnvoll in eine Vererbungslinie gebracht werden können. So eine Situation kann man mit Interfaces lösen. 
 
 Ein Interface ist ein Vertrag der beschreibt, welche Methoden in einer Klasse vorhanden sein müssen. Möchte eine Klasse ein Interface implementieren, dann muss sie auch die im 'Vertrag' genannten Methoden anbieten. Dabei muss lediglich die Signatur übereinstimmen. 

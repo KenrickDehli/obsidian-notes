@@ -17,3 +17,5 @@ Kurzzeitgedächtnis:
 - BWL→ Zusammenfassung
 ## Plan
 Jeden Tag ca. 6 Stunden lernen. Dabei der Großteil aus der Kategorie Langzeitgedächtnis. Wenn man keinen Kopf mehr zum denken hat, dann Zusammenfassungen aus der Kategorie Kurzzeitgedächtnis schreiben. Am ende des Tages eine Prüfungsaufgabe machen. 
+
+# 

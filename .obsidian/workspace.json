@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0d1e86e7da6ddd25",
+        "id": "565088f98afbbb9c",
         "type": "tabs",
         "children": [
           {
-            "id": "06c907704def7a27",
+            "id": "78436fc704d4ec67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lernplan AP2.md",
+                "file": "AP2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb332e0349d8d065",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BWL/Bestellung & Zeitplanung.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lernplan AP2.md",
+                "file": "BWL/Bestellung & Zeitplanung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lernplan AP2.md",
+                "file": "BWL/Bestellung & Zeitplanung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lernplan AP2.md"
+                "file": "BWL/Bestellung & Zeitplanung.md"
               }
             }
           }
@@ -146,31 +159,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06c907704def7a27",
+  "active": "eb332e0349d8d065",
   "lastOpenFiles": [
-    "Projektideen.md",
-    "To-Do's.md",
-    "Software Engineering/OOP.md",
-    "Software Engineering/Aus der Berufsschule.md",
-    "Lernplan AP2.md",
+    "BWL/assets/bestell4.png",
+    "BWL/assets/bestell3.png",
+    "BWL/assets/bestell2.png",
+    "BWL/assets/bestell1.png",
+    "BWL/Wareneingangskontrolle.md",
+    "BWL/Bestellung & Zeitplanung.md",
+    "BWL/Handelskalkulation.md",
+    "BWL/assets/differenz.png",
+    "BWL/assets/rückwärts.png",
+    "BWL/assets/vorwärts.png",
+    "BWL/EPK.md",
+    "WIKO/Arbeitsrecht.md",
+    "WIKO/Vertragsrecht.md",
+    "BWL/assets/Ziele der BS.png",
+    "BWL/assets",
+    "BWL/Optimale Bestellmenge & Lagerung.md",
+    "BWL/ABC Analyse.md",
+    "BWL/Angebotsvergleich.md",
     "Untitled.md",
-    "Software Engineering",
-    "Netzwerktechnik/Aus der Berufsschule.md",
-    "Netzwerktechnik/Netzwerkgrundlagen.md",
-    "Netzwerktechnik/Freestyle (muss nicht richtig sein).md",
+    "BWL/Kosten- & Leistungsrechnung.md",
+    "WIKO/Unternehmensgründung.md",
+    "WIKO/Soziale Marktwirtschaft.md",
+    "Operatoren.md",
+    "AP2.md",
     "WIKO/Wirtschaftskompetenz.md",
+    "WIKO/Rechtsfähigkeit & Rechtsgeschäfte.md",
+    "Software Engineering/SOLID-Prinzipien.md",
+    "Software Engineering/Dependency Injection.md",
+    "Software Engineering/Entwurfsmuster.md",
+    "Software Engineering/OOP.md",
+    "Software Engineering/UML.md",
     "Datenbanken/Datenbanken.md",
+    "Software Engineering/Aus der Berufsschule.md",
+    "Entwurfsmuster].md",
+    "Servertechnik",
+    "Software Engineering",
     "Datenbanken/TheoretischeGrundlagen.pdf",
-    "Datenbanken/Aufgaben zur Selbstüberprüfung.md",
-    "BWL/Betriebswirtschaftslehre.md",
-    "Datenbanken/Fragen.md",
     "WIKO/assets/Darlehensvertrag.png",
     "WIKO/assets/Dienstvertrag.png",
     "WIKO/assets/Leihvertrag.png",
-    "WIKO/assets/Mietvertrag.png",
-    "WIKO/assets/Pachtvertrag.png",
-    "WIKO/assets/Werkvertrag.png",
-    "WIKO/assets",
-    "Welcome.md"
+    "WIKO/assets"
   ]
 }
