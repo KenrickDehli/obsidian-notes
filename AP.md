@@ -107,13 +107,13 @@ Die Leitsätze der agilen Softwareentwicklung: Wir entdecken bessere Wege
 Software zu entwickeln, indem wir es tun und anderen dabei helfen es zu
 tun. Durch diese Arbeit haben wir folgende Werte zu schätzen gelernt:
 
--   Individuen und Interaktionen mehr als Prozesses und Werkzeuge
+-   Individuen und Interaktionen sind wichtiger als Prozesse und Werkzeuge
 
--   Funktionierende Software mehr als umfassende Dokumentationen
+-   Funktionierende Software ist wichtiger als umfassende Dokumentationen
 
--   Zusammenarbeit mit dem Kunden mehr als Vertragshandlung
+-   Zusammenarbeit mit dem Kunden ist wichtiger als Vertragshandlungen
 
--   Reagieren auf Veränderung mehr als Befolgen eines Plans
+-   Reagieren auf Veränderung ist wichtiger als Befolgen eines Plans
 
 Obwohl die Werte auf der rechten Seite wichtig sind, schätzen wir die
 Werte auf der linken Seite höher ein.
@@ -308,22 +308,24 @@ Menschen mit körperlichen Einschränkungen bedient werden können. BITV
 Ziel, eine grundsätzlich uneingeschränkt barrierefreie Gestaltung
 moderner Informations- und Kommunikationstechnik zu ermöglichen. Sie
 verweist dabei in der Regel auf die Richtlinie EU 2016/2102
-![image](Barrierefreiheit){width="\\linewidth"}
+![[Barrierefreiheit.png]]
 
 # Fachkompetenz Datenschutz
+
+#Datenschutz 
 
 Unter Datenschutz kann man den Schutz vor Missbrauch von
 personenbezogener Daten verstehen. Der Mensch soll selbst bestimmen was
 mit seinen persönlichen Daten geschieht. Um dies zu gewährleisten wurden
 Gesetze wie das Bundesdatenschutzgesetz oder die europäische
-Datenschutz-Grundverordnung (DSVGO) beschlossen.
+Datenschutzgrundverordnung (DSGVO) beschlossen.
 
 ## Personenbezogene Daten
 
 Personenbezogene Daten sind alle Informationen, die sich auf eine
 identifizierte oder identifizierbare lebende Person beziehen.
 Verschieden Teilinformationen, die gemeinsam zur Identifizierung einer
-bestimmten Person führen können stellen ebenfalss personenbezogene Daten
+bestimmten Person führen können stellen ebenfalls personenbezogene Daten
 dar. Beispiele dafür sind:
 
 -   Name und Vorname
@@ -340,10 +342,9 @@ dar. Beispiele dafür sind:
 
 ## DSGVO
 
-Die Datenschutz-Grundverordnung ist am 25. Mai 2018 rechtswirksam
+Die Datenschutzgrundverordnung ist am 25. Mai 2018 rechtswirksam
 geworden und bildet den datenschutzrechtlichen Rahmen innerhalb der
-Europäischen Union. Unternehmen mussten ihre Geschäftsabläufe bis zum
-25. Mai 2018 an die neue Rechtslage anpassen. Die DSGVO ist ein Schritt
+Europäischen Union. Unternehmen mussten ihre Geschäftsabläufe bis zum 25. Mai 2018 an die neue Rechtslage anpassen. Die DSGVO ist ein Schritt
 in Richtung eines harmonisierten europäischen Binnenmarkt. Ziel ist eine
 angemessene Balance zwischen Wirtschafts- und Verbraucherinteressen in
 Zeiten fortschreitender Digitalisierung. Sie stärkt das Grundrecht auf
@@ -410,7 +411,7 @@ Datenschutzverstößen.
 
 ## Programmablauf: Bestimmung Datenschutzbeauftragten
 
-![image](BestimmungDS){width="\\linewidth"}
+![[BestimmungDS.png]]
 
 ## Standard-Datenschutzmodell
 
@@ -426,26 +427,26 @@ denen die Aspekte der DSGVO praktisch umgesetzt werden sollen.
 
 Datenminimierung bezeichnet die grundlegende datenschutzrechtliche
 Anforderung die Verarbeitung personenbezogener Daten auf das dem Zweck
-angemessene, erhebliche und notwendige Maß zu beschränken.
+**angemessene, erhebliche und notwendige Maß** zu beschränken.
 
 ### Verfügbarkeit
 
-Verfügbarkeit bezeichnet die Anforderung, dass der Zugriff auf
-personenbezogene Daten und ihre Verarbeitung unverzüglich möglich ist
-und sie ordnungsgemäß im vorgesehenen Prozess verwendet werden können.
+Verfügbarkeit bezeichnet die Anforderung, dass der **Zugriff** auf
+personenbezogene Daten und ihre **Verarbeitung** **unverzüglich möglich** ist
+und sie **ordnungsgemäß** im vorgesehenen Prozess verwendet werden können.
 
 ### Integrität
 
 Integrität bezeichnet einerseits die Anforderung, dass
-informationstechnische Prozesse und Systeme die Spezifikationen
+informationstechnische Prozesse und Systeme die **Spezifikationen
 kontinuierlich einhalten, die zur Ausübung ihrer zweckbestimmten
-Funktionen für sie festgelegt wurden. Integrität bezeichnet andererseits
-die Eigenschaft, dass die zu verarbeitenden Daten unversehrt,
-vollständig, richtig und aktuell bleiben.
+Funktionen für sie festgelegt wurden**. Integrität bezeichnet andererseits
+die Eigenschaft, dass die zu verarbeitenden Daten **unversehrt,
+vollständig, richtig und aktuell** bleiben.
 
 ### Vertraulichkeit
 
-Vertraulichkeit bezeichnet die Anforderung, dass keine unbefugte person
+Vertraulichkeit bezeichnet die Anforderung, dass **keine unbefugte Person**
 personenbezogene Daten zur Kenntnis nehmen oder nutzen kann.
 
 ### Nichtverkettung
@@ -476,7 +477,7 @@ entsprechenden Maßnahmen umzusetzen.
 
 ### Kontaktformular
 
-![image](Kontaktformular){width="\\linewidth"}
+![[Kontaktformular.png]]
 
 # Fachkompetenz IT-Sicherheit
 
@@ -1391,6 +1392,10 @@ Standards sind auch für WAN etc. gegeben.
 
 ## OSI-Modell
 
+^71f9c7
+
+→ Mehr dazu auch [[Netzwerkgrundlagen#^348d7a|hier]].
+
 Das Open Systems Interconnection Modell (OSI-Modell) wurde als Modell
 für die Datenkommu nikation in offenen Systemen entwicklet und auch
 genormt. Es ist ist 7 hierarchische Schichten (Layer) strukturiert. Jede
@@ -1548,10 +1553,13 @@ SMTP wird zum Einliefern und Weiterleiten von Emails verwendet. Häufig
 wird der TCP-Port 25 verwendet. Allerdings teilweise auch die TCP-Ports
 465 und 587.
 
+#protokoll
 ### Internet Message Access Protocol over TLS/SSL
 
 IMAPS ist die abgesicherte Variante von IMAP und wird zum Abruf von
 Emails verwendet. Häufig wird der TCP-Port 993 eingesetzt.
+
+#protokoll 
 
 ### Transport Control Protocol
 
@@ -1560,12 +1568,15 @@ Netzwerkgeräten aufzubauen. Durch TCP wird eine zuverlässige Übertragung
 gewährleistet, da alle Segmente mit entsprechenden Nummern versehen
 werden. Verlorene Pakete können somit erneut angefordert werden.
 
+#protokoll 
 ### User Datagram Protocol
 
 Bei UDP wird keine Verbindung zwischen Sender und Empfänger aufgebaut.
 Stattdessen werden die Datagramme ungesichert versendet. Dies ist bei
 Anwendungen empfehlenswert, die eine geringe Latenz benötigen (z.B. VoIP
 oder Onlinespiele)
+
+#protokoll 
 
 ### Secure Shell
 
@@ -1581,6 +1592,8 @@ abgelöst.
 HTTPS ist die abgesicherte Version von HTTP und wird genutzt, um Daten
 zwischen Webserver und Webbrowser zu übertragen. Standarmäßig wird hier
 der TCP Port 443 verwendet.
+
+#protokoll 
 
 ### Dynamic Host Configuration Protocol
 
@@ -1615,6 +1628,7 @@ MAC-Adressen zu hinterlegen. Nur MAC-Adressen, die in der hinterlegten
 Liste abgelegt sind, bekommen vom DHCP-Server eine IP-Adresse
 zugewiesen. Eine weitere Möglichkeit ist die Verwendung von IEEE 802.1X.
 
+#protokoll 
 ### Server Message Block
 
 Das SMB-Protokoll ermöglicht es Netzwerkfreigaben bereitzustellen.
@@ -1624,6 +1638,8 @@ Das SMB-Protokoll ermöglicht es Netzwerkfreigaben bereitzustellen.
 ICMP dient dem Austausch von Kontroll- und Fehlermeldungen in
 IP-Netzwerken. Der häufig genutzte ping-Befehl setzt auf die
 ICMP-Pakettypen Echo Request und Echo Reply.
+
+#protokoll 
 
 ## WLAN
 
@@ -1637,18 +1653,22 @@ Meter. Allerdings sind auch bis zu 279km (Weltrekord von 2006) möglich.
 Wenn man von WLAN spricht, meint man das Funknetzwerk. Wenn man von
 Wi-Fi spricht, redet man vom Standard.
 
+#netzwerktechnik
+
 ### Access Point
 
-Für Wlans im sogenannte Infrastructure Mode" agiert der Access Point als
+Für Wlans im sogenannten "Infrastructure Mode" agiert der Access Point als
 zentrale Sendestation, die mit den einzelnen Teilnehmern kommuniziert.
-Über eine Ethernet-Kabelverbindung zum Router erhält der Access Poit ein
+Über eine Ethernet-Kabelverbindung zum Router erhält der Access Point ein
 Internet-Signal, das er in ein separates WLAN-Netz umwandelt.
 
 ### IEEE 802.11n
 
 Der 802.11n-Standard des IEEE ist eine Erweiterung des 802.11 Standards.
 Die n-Erweiterung ermöglicht bspw. größere Kanalbandbreiten und Multiple
-Input Multiple Output. ![image](IEEE802.11n){width="\\linewidth"}
+Input Multiple Output. 
+
+![[IEEE802.11n.png]]
 
 ### Service Set Identifier
 
@@ -1664,12 +1684,15 @@ Verfahren gilt zur Zeit als sicher, falls angemessene Schlüsselworte
 gewählt werden. WPA3 bietet sicherheitstechnische Verbesserungen
 gegenüber WPA2.
 
+#WLAN
+
 ### WPA2-Personal
 
 Die Personal-Variante verwendet ein vorkonfiguriertes Passwort, das auf
 dem Access Point und am Client eingetragen werden muss. Diese Version
 wird teilweise auch als WPA2-PSK (Pre Shared Key) bezeichnet.
 
+#WLAN 
 ### WPA2-Enterprise
 
 WPA2-Enterprise stellt eine Lösung dar, die eher im Unternehmensbereich
@@ -1677,6 +1700,8 @@ zum Einsatz kommt. Hierbei wird vom Client eine Verbindung zu einem
 AAA-Server (Authentifizierung, Autorisierung und Accounting)
 hergestellt. Der AAA-Server generiert dann die Verschlüsselungscodes,
 die von dem jeweiligen Nutzer verwendet werden.
+
+#WLAN 
 
 ## Gebäudeverkabelung
 
@@ -1686,6 +1711,7 @@ In diesem Bereich wird die Verkabelung zwischen Gebäuden realisiert. Es
 sind häufig Distanzen von mehreren hundert Metern zu überbrücken. Ein
 typisches Übertragungsmedium ist hier der Lichtwellenleiter.
 
+#kabel
 ### Stockwerksverteilung, Sekundärverkabelung
 
 In diesem bereich wird die Verkabelung zwischen dem Hauptverteiler des
@@ -1696,13 +1722,16 @@ ist hier der Lichtwellenleiter oder auch teilweise Kupferkabel.
 ### Etagenverkabelung, Tertiärverkabelung
 
 In diesem Bereich wird die Verkabelung vom Stockwerksverteiler zu den
-Anschlussdosen realiseiert. Häufig wird hier eine sternförmige Struktur
+Anschlussdosen realisiert. Häufig wird hier eine sternförmige Struktur
 ausgehend vom Verteiler umgesetzt. Die Streckenlängen liegen
 typischerweise unter 100 Metern. Ein typisches Übertragungsmedium ist
-hier das Kupferkabel. ![image](Glasfasern){width="\\linewidth"}
+hier das Kupferkabel. 
+
+![[Glasfasern.png]]
 
 ## IPv6
 
+→ Mehr dazu [[IPv6|hier]].
 ### Random Facts
 
 -   IPv4 und IPv6 können mithilfe geeigneter Mechanismen parallel
@@ -1717,8 +1746,8 @@ Adressraums
 
 ### Beispiel /64 Netz
 
-Für IPv6 ist die Verwendung von Autoconfiguration gedacht. Hierbei
-entspricht die Interface ID einem zufälligen Wert oder der EUI64 der
+Für IPv6 ist die Verwendung von Autokonfiguration gedacht. Hierbei
+entspricht die Interface ID einem zufälligen Wert oder der [[Glossar|EUI-64]] der
 Netzwerkkarte, welcher aus der MAC-Adresse ermittelt werden kann. Da der
 Hostanteil damit 64 Bit umfasst, ist die Vergabe eines /64 Subnetztes
 die Regel. /64 bedeutet, dass die ersten 64 Bit der (128 Bit)
@@ -1739,7 +1768,7 @@ werden die Privacy Extensions teilweise deaktiviert.
 DS-Lite steht für Dual Stack Lite. Bei diesem Anschluss erhält der
 Teilnehmer keine öffentliche IPv4-Adresse sondern es wird eine private
 IPv4-Adresse und ein globales IPv6 Präfix zugewiesen. Soll
-IPv4-Datenverkehr transportiert werden, werden am Endkungen-Router
+IPv4-Datenverkehr transportiert werden, werden am Endkunden-Router
 Pakete mit einer privaten IPv4-Adresse in IPv6-Pakete verpackt. Man
 spricht hier von einer 4-in-6-Tunnel-Technologie. Am Endpunkt des
 4-in-6-Tunnels wird der IPv6 Header entfernt. Um das Paket mit der
@@ -1765,9 +1794,11 @@ Stecker und wäre für eine allgemeine Verkabelung denkbar. Die Version
 CAT8.2 nutzt einen anderen Steckertyp und ist daher im Consumer Bereich
 nicht üblich, da sie schwerpunktmäßig in Rechenzentren eingesetzt
 werden. Für ein angemessenes Preis-Leistungsverhältnis sind Kabel der
-Kategorie 7 zu empfehlen (CAT 7). ![image](CATs){width="\\linewidth"}
+Kategorie 7 zu empfehlen (CAT 7). ![[CATs.png]]
 
 ## Fernwartung
+
+#wartung
 
 ### Virtual Network Computing
 
@@ -1793,8 +1824,7 @@ beispielsweise die genannten Protokolle VNC, RDP oder SSH genutzt
 werden.
 
 ### Linux Befehle
-
-![image](FernwartungLinux){width="\\linewidth"}
+![[FernwartungLinux.png]]
 
 ## VLAN
 
@@ -1949,25 +1979,25 @@ das Angebot ist gering und die Nachfrage ist groß.
 
 ## Wirtschaftskreislauf
 
-![image](Wirtschaftskreislauf){width="\\linewidth"}
+![[Wirtschaftskreislauf.png]]
 
 ## Aufbauorganisation
 
 ### Einliniensystem
 
-![image](Einliniensystem){width="\\linewidth"}
+![[Einliniensystem.png]]
 
 ### Mehrliniensystem
 
-![image](Mehrliniensystem){width="\\linewidth"}
+![[Mehrliniensystem.png]]
 
 ### Stabl-Linien-System
 
-![image](Stabliniensystem){width="\\linewidth"}
+![[Stabliniensystem.png]]
 
 ### Matrixorganisation
 
-![image](Matrixorganisation){width="\\linewidth"}
+![[Matrixorganisation.png]]
 
 ## Führungsstile
 
@@ -1975,9 +2005,9 @@ das Angebot ist gering und die Nachfrage ist groß.
 
 Klare Trennung zwischen Mitarbeitenden unterschiedlicher
 Hierarchiestufen. Das Personal ist für die Ausführung der Entscheidungen
-des Managementes verantwortlich.
+des Managements verantwortlich.
 
--   Vorteil → Schnell Entscheidungen
+-   Vorteil → Schnelle Entscheidungen
 
 -   Nachteil → Demotivierend durch fehlende Eigeninitiative,
 Überforderung des Vorgesetzten
@@ -2028,9 +2058,9 @@ Druckerpatronen
 ## Prokura
 
 Die Prokura berechtigt zu allen Arten von gerichtlichen und
-außengerichtlichen Geschäften und Rechtshandlungen, die der Betrieb
+außergerichtlichen Geschäften und Rechtshandlungen, die der Betrieb
 eines Handelsgewerbes mit sich bringt (§ 49 HGB). Die Prokura kann nur
-vom Inhaber oder gesetzlichern Vertreter durch ausdrückliche Erklärung
+vom Inhaber oder gesetzlichen Vertreter durch ausdrückliche Erklärung
 erteilt werden. Die Prokura kann als Einzelprokura (Prokurist allein
 vertretungsberechtigt) oder als Gesamtprokura erteilt werden. Ein
 Prokurist hat sich allerdings an bestimmte Einschränkungen zu halten. So
@@ -2674,4 +2704,4 @@ und/oder Buchhaltung.
 
 Unternehmen müssen Material- und Warenlieferungen unverzüglich
 überprüfen, ansonsten können spätere Mängelansprüche vom Lieferanten
-a
+an

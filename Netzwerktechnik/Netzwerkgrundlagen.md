@@ -8,6 +8,9 @@ Für alle Schichtenmodelle gilt folgendes:
 Die Daten, die über einen Kommunikationskanal übertragen werden sollen, werden auf der Seite des Senders zunächts Schicht für Schicht nach unten weitergeleitet und jeweils mit den spezifischen Zusatzinformationen für diese Schicht versehen. Schließlich werden si über die unterste Schicht, die eigentliche physikalische Verbindung, übertragen. Auf der Empfängerseite werden sie dann wieder schichtweise nach oben weitergeleitet. Jede Schicht ermittelt die für sie bestimmten Informationen und regelt die Weiterleitung an die nächsthöhere Schicht. 
 
 ### OSI-Referenzmodell
+
+^348d7a
+→ Informationen dazu auch [[AP#^71f9c7|hier]].
 Um die Ebenen eines Netzwerks auseinanderhalten zu können, bedient man sich sogenannter Schichtenmodelle. Das bekannteste ist dabei das OSI(Open Systems Interconnect)-Referenzmodell von der ISO. Es besteht aus 7 Schichten:
 
 1. Bit-Übertragungsschicht → Physical Layer

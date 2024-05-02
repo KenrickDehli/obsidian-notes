@@ -1,3 +1,2 @@
 ## Misc.
 
-- Sync Obsidian mit Git um Notizen überall zu haben
