@@ -9,6 +9,8 @@ genannte Klasse selbst verantwortlich sein. Merkmale:
 • Alle Objekte die mit dem Singleton arbeiten möchten, erhalten eine Ref-
 erenz auf das Objekt
 • statisches Attribut vom eigenen Klassentyp
+
+![[Singleton.png]]
 # Observer 
 Ändert sich der Zustand eines Objekts, sollen alle von diesem Objekt abhängigen
 Objekte benachrichtigt werden, so dass eine Aktualisierung dieser Objekte au-
@@ -30,6 +32,8 @@ ode bei Observable Klasse.
 Der Observer registriert sich bei dem Observable Objekt und wenn sich
 der Zustand des Observables ändert, dann werden diese benachrichtigt, und
 anschließend aktualisieren die angemeldeten Observer die Veränderung.
+
+![[Observer.png]]
 # Factory
 Das Factory (Method) Pattern wird meist bei wiederverwendbaren Anwendun-
 gen angewendet, wie z.B. bei der Entwicklung von Frameworks. Hier sollen nur
@@ -46,3 +50,5 @@ und dabei wird die Erzeugung des Objekts verlagert bzw. delegiert. Merkmale:
 als Ergebnis zurückgegeben werden.
 • tiefere, konkrete Ebene mit konkreten Erzeugern und konkreten Produk-
 ten
+
+![[Factory.png]]

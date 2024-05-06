@@ -100,11 +100,3 @@ Eine Person verpflichtet sich zur Leistung von Diensten gegen Entgelt. Erfolg de
 ## Darlehensvertrag
 Darlehensgeber verpflichtet sich entgeltlich oder unentgeltlich Sachen zum Verbrauch zu überlassen. Darlehensnehmer verpflichtet sich gleichartige Sachen nach einer bestimmten Zeit zurückzugeben. 
 ![[Darlehensvertrag.png]]
-
-# Verzug
-## Rechte bei mangelhafter Lieferung
-
-
-
-
-

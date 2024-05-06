@@ -1,9 +1,8 @@
-Rechts und Geschäftsfähigkeit
 ## Rechtsfähigkeit
-Die Rechtsfähigkeit des Menschen beginnt mit der Geburt und endet mit dem Tod. Dabei gibt es einen Unterschied ob jener Mensch sein Recht selbst wahrnehmen und seine Pflichten erfüllen kann. Dabei unterscheidet man zwischen \_natürlichen Personen_ und _juristischen Personen_.
+Die Rechtsfähigkeit des Menschen beginnt mit der Geburt und endet mit dem Tod. Dabei gibt es einen Unterschied ob jener Mensch sein Recht selbst wahrnehmen und seine Pflichten erfüllen kann. Dabei unterscheidet man zwischen _natürlichen Personen_ und _juristischen Personen_.
 - natürliche Personen → lebende Menschen
 - juristische Personen → Vermögensmassen oder Personenvereinigungen, denen eine eigene Rechtsfähigkeit zuerkannt wird
-Juristische Personen lassen sich in Personen des Privatrechts (bswp. AG, GmbH oder e.V.) und Personen des öffentlichen Rechts (BRD, Bundesländer, Gemeinden). Juristische Personen können nicht selbständig im Wirtschaftsleben tätig werden. Sie benötigen die Hilfe von natürlichen Personen → Organe (bspw. Vorstand).
+Juristische Personen lassen sich in Personen des Privatrechts (bspw. AG, GmbH oder e.V.) und Personen des öffentlichen Rechts (BRD, Bundesländer, Gemeinden). Juristische Personen können nicht selbständig im Wirtschaftsleben tätig werden. Sie benötigen die Hilfe von natürlichen Personen → Organe (bspw. Vorstand).
 ## Geschäftsfähigkeit
 _Wer geschäftsfähig ist, darf selbständig voll gültige (Rechts-)Geschäfte abschließen._
 ### Geschäftsunfähigkeit
@@ -20,7 +19,7 @@ Allerdings gibt es  auch Ausnahmen:
 ### Volle Geschäftsfähigkeit
 - **Alle Personen ab dem vollendeten 18. Lebensjahr**
 - Rechtsgeschäfte sind voll gültig und die Personen müssen auch selbst volle Verantwortung dafür übernehmen
-Juristische Personen sind solange sie existieren voll geschäftsfähig
+- Juristische Personen sind solange sie existieren voll geschäftsfähig
 
 ## Rechtsgeschäfte
 Rechtsgeschäfte entstehen durch die Abgabe von **Willenserklärungen**
@@ -34,15 +33,15 @@ Rechtsgeschäfte entstehen durch die Abgabe von **Willenserklärungen**
 Entstehen nur wenn eine Person oder Partei eine Willenserklärung abgibt. Bspw. Kündigung, Testament. Zu Beachten ist hierbei allerdings, ob die Willenserklärung empfangsbedürftig ist. 
 ### Zweiseitige Rechtsgeschäfte 
 Entstehen durch eine übereinstimmende Willenserklärung von mindestens zwei Beteiligten. 
-- Antrag
+- Antrag _und_
 - Annahme
 Bspw. Arbeitsvertrag, Kaufvertrag, Schenkungsvertrag
 
 ### Besondere Formvorschriften
-Rechtsgeschäft können nach dem **Grundsatz der Formfreiheit** in beliebiger Form abgeschlossen werden. Bei manchen Rechtsgeschäften wird allerdings eine gesetzliche Form vorgeschrieben: 
-- Schriftform → Ratenkaufverträge, Berufsausbildungsverträge
-- öffentliche Beglaubigung → Beglaubigung des Dokuments durch einen Notar oder eine Behörde, bspw. Anträge auf die Eintragung ins Grundbuch, Handelsregister
-- notarielle Beurkundung
+Rechtsgeschäfte können nach dem **Grundsatz der Formfreiheit** in beliebiger Form abgeschlossen werden. Bei manchen Rechtsgeschäften wird allerdings eine gesetzliche Form vorgeschrieben: 
+- **Schriftform** → Ratenkaufverträge, Berufsausbildungsverträge
+- **öffentliche Beglaubigung** → Beglaubigung des Dokuments durch einen Notar oder eine Behörde, bspw. Anträge auf die Eintragung ins Grundbuch, Handelsregister
+- **notarielle Beurkundung**
 ### Nichtigkeit von Rechtsgeschäften
 Nichtige Rechtsgeschäfte sind von Anfang an unwirksam:
 - Verstoß gegen ein gesetzliches Verbot

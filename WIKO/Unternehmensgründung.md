@@ -8,6 +8,7 @@ Beispielhafte, unterstützende Ziele um das Ziel der Gewinnmaximierung umset-
 zen zu können:
 - ständige Verbesserung von Produktivität und Rentabilität
 - hohe Qualität von Produkten und Dienstleistungen
+
 Dabei sollte ein Unternehmen das Prinzip der Nachhaltigkeit nicht vernach-
 lässigen, sodass nachfolgende Generationen entsprechende Ressourcen zur ver-
 fügung stehen. Eine nachhaltige Unternehmensstrategie zeichnet sich dadurch
@@ -62,15 +63,15 @@ derte Form zu überführen.
 Im Businessplan legt man fest, was man genau vorhat und was zu tun ist, damit
 das Gründungsvorhaben gelingt. Dabei steht nicht nur das Planen im Vorder-
 grund, sonder auch die Kontrolle der Zielsetzung. Inhalt des Businessplans:
-- Die Geschäftsidee → Nutzen der Arbeit und zusätzlichen Nutzen im Ver-
+- **Die Geschäftsidee** → Nutzen der Arbeit und zusätzlichen Nutzen im Ver-
 -leich zur Konkurrenz
-- Markteinschätzung → Zielgruppe, Wünsche der Kunden, Marktvolumen
-- Konkurrenzanalyse → Wer ist die Konkurrenz Preissenkung möglich? Ser-
+- **Markteinschätzung** → Zielgruppe, Wünsche der Kunden, Marktvolumen
+- **Konkurrenzanalyse** → Wer ist die Konkurrenz Preissenkung möglich? Ser-
 -ice der Konkurrenz?
-- Standort
-- Geschäftsverbindungen → Geschäftspartner? Hersteller? Lieferanten?
+- **Standort**
+- **Geschäftsverbindungen** → Geschäftspartner? Hersteller? Lieferanten?
 -roßhändler?
-- Zukunftsaussichten? → Entwicklung in der Branche? Entwicklung der
+- **Zukunftsaussichten?** → Entwicklung in der Branche? Entwicklung der
 Nachfrage?
 
 ## Die Wahl des Standorts
@@ -125,8 +126,7 @@ an Gewerberegister mit wichtigsten Papieren → automatische Weiterlei-
 tung an die wichtigsten Stellen
 - Anmeldung Finanzamt → Zuteilung Steuernummer
 - Mitteilung an zuständige Berufsgenossenschaft → Unfallversicherung
-- Information an Agentur für Arbeit → Fördermittel Mitarbeiter, Zuteilung
--etriebsnummer
+- Information an Agentur für Arbeit → Fördermittel Mitarbeiter, Zuteilung Betriebsnummer
 - Anmeldung von Arbeitnehmer bei Krankenkassen → Sozialversicherung
 - Aushandeln von Bezugsbedingungen bei Versorgungsunternehmen
 - Einholung Betriebsgenehmigung bei überwachungspflichtigen Anlagen
@@ -139,6 +139,7 @@ bei gibt die Rechtsform Auskunft über folgende Fragen:
 - Wer ist berechtigt die Unternehmung zu leiten und nach außen zu vertre-
 ten?
 - Wer erhält den erwirtschafteten Gewinn?
+
 Dabei kann man die Rechtsformen eines Unternehmens in die Einzelunterneh-
 mung und Gesellschaftsunternehmungen aufteilen:
 - Personengesellschaften
@@ -146,26 +147,28 @@ mung und Gesellschaftsunternehmungen aufteilen:
 - Genossenschaften
 ## Einzelunternehmung
 - 80% der Neugründungen sind Einzelunternehmungen
-- Im Mittelpunkt steht der Einzelunternehmer → Kapitalaufbringung, Lei-
+- Im Mittelpunkt steht der Einzelunternehmer → **Kapitalaufbringung, Lei-
 tung, unbeschränkte und gesamtschuldnerische Haftung, vollen Anspruch
-auf Gewinn
+auf Gewinn**
 - Unterscheidung in Nichtkaufleuten, Kannkaufleuten und Istkaufleuten →
 Kaufleute können Firmennamen führen, höhere Verzugszinsen berechnen.
 Dafür allerdings einer strengeren Prüfungs- und Rügepflicht beim Han-
 delskauf.
 - Firma ist der Name unter dem ein eingetragener Kaufmann seine Unter-
 nehmung betreibt.
+
 Vorteile:
 - Unabhängigkeit gegenüber anderen Meinungen
 - Unternehmer kann alleine und schnell entscheiden
 - Unternehmer verfügt allein über den Gewinn
+
 Nachteile:
 - Unternehmer haftet unbeschränkt und gesamtschuldnerisch mit seiner Pri-
 vatvermögen
 - Unternehmer trägt das Risiko alleine
 ## Personengesellschaften
-Eine Personengesellschaft beschreibt, dass sich zwei oder mehrere Personen zu-
-sammenschließen, um eine Unternehmung zu betreiben. Dabei haftet minde-
+**Eine Personengesellschaft beschreibt, dass sich zwei oder mehrere Personen zu-
+sammenschließen, um eine Unternehmung zu betreiben.** Dabei haftet minde-
 stens eine Person unbeschränkt. Personengesellschaften sind keine juristischen
 Personen.
 ### Gesellschaft bürgerlichen Rechts
@@ -178,12 +181,14 @@ der Geschäftsführung fällt allen Gesellschaftern zu (außer man überträgt d
 ### Offene Handelsgesellschaft
 Zur Gründung einer OHG schließen alle beteiligten Personen einen Gesellschafts-
 vertrag ab. Die Grundlage dafür ist das HGB. Grundsätzlich besitzt jeder Inha-
-ber die Geschäftsführung und das Vertretungsrecht. Alle Gesellschafter haften
-unbeschränkt, solidarisch und unmittelbar. Für die Kapitaleinlage ist keine Min-
+ber die Geschäftsführung und das Vertretungsrecht. **Alle Gesellschafter haften
+unbeschränkt, solidarisch und unmittelbar.** Für die Kapitaleinlage ist keine Min-
 desthöhe vorgesehen.
+
 Vorteile:
 - Risiko, Haftung und Arbeitsbelastung ist gleichermaßen verteilt.
 - hohe Kreditwürdigkeit
+
 Nachteile:
 - uneingeschränkte Haftung
 - Meinungsverschiedenheiten zwischen Gesellschaftern können dem Unter-
@@ -209,8 +214,9 @@ vermögen. Die GmbH ist in Organe unterteilt:
 - Geschäftsführung → Leitendes Organ mit einer oder mehreren Personen
 - Gesellschaftsvertreterversammlung → kontrolliert die Geschäftsführung
 und entscheidet über die Verwendung des Jahresgewinns.
-- Aufsichtsrat → Kontrollierendes Organ, muss bei Unternehmen mit ¿ 500
+- Aufsichtsrat → Kontrollierendes Organ, muss bei Unternehmen mit > 500
 Beschäftigten gebildet werden.
+
 Die GmbH & Co KG ist eine besondere Form der GmbH, die es den ermöglicht,
 das Privatvermögen aus der Haftung auszuschließen indem die GmbH als Kom-
 plementär der KG eingetragen ist.
@@ -253,6 +259,7 @@ Grundsätzlich ist zwischen zwei Quellen der Finanzierung zu unterscheiden:
 von anderen Gesellschaftern
 - Fremdkapital → Darlehen oder Kredite von Banken oder auch Förder-
 kredite/-darlehen
+
 Dabei sollte man folgende Finanzierungsgrundsätze beachten:
 - Das Anlagevermögen (Grundstücke, Maschinen etc.) verlangt eine lang-
 fristige Kapitalbindung, daher sollte es möglichst durch das EK finanziert
@@ -273,7 +280,7 @@ Zahlungsziel aus.
 meist in Raten.
 ## Finanzierung durch Fremdkapital 
 Entscheidet man sich für eine Fremdfinanzierung, so steht man vor dem Problem
-des Preisvergleichs der unterschiedlichen Banken. Der Effektivzinssatz gibt hier
+des Preisvergleichs der unterschiedlichen Banken. Der [[Glossar|Effektivzinssatz]] gibt hier
 Auskunft über den tatsächlich zu zahlenden Zins einschließlich aller Gebühren
 und Kosten.
 ## Kreditsicherung
@@ -312,6 +319,7 @@ tieren sich an der zu erwartenden Kostenhöhe.
 auch wenn nichts produziert wird
 - Variable Kosten → verändern sich gleichermaßen zur produzierten Menge
 - Gesamtkosten → Fixe + Variable Kosten
+
 Ziel der Unternehmer ist es, die fixen Kosten so gering wie möglich zu halten,
 um dadurch vom Produktionsumfang unabhängiger zu werden. Je mehr die
 Produktionsmenge zunimmt, desto mehr vermindert sich der Anteil der fixen
@@ -325,6 +333,7 @@ rekten Kosten) und Gemeinkosten (indirekte Kosten).
 löhne, Fertigungsmaterial)
 - Gemeinkosten → Kosten die für mehrere Erzeugnisse anfallen (z.B. Ver-
 waltungslöhne, Mietkosten, Abschreibung etc.)
+
 Die Einzel- und Gemeinkosten fallen unter die Kategorie der Selbstkosten, die
 in der Handelskalkulation Anwendung finden. Die Einzelkosten gehen dabei di-
 rekt in die Kalkulation ein, da sie für den Auftrag genau berechenbar sind.

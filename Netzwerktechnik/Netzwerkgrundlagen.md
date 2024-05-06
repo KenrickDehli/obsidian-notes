@@ -15,7 +15,7 @@ Um die Ebenen eines Netzwerks auseinanderhalten zu können, bedient man sich sog
 
 1. Bit-Übertragungsschicht → Physical Layer
 2. Sicherungsschicht → Data Layer
-3. Vermittlungsschicht → Network Layer
+3. Netzwerkschicht → Network Layer
 4. Transportschicht → Transport Layer
 5. Sitzungsschicht → Session Layer
 6. Darstellungsschicht → Presentation Layer
@@ -37,7 +37,7 @@ Um die Ebenen eines Netzwerks auseinanderhalten zu können, bedient man sich sog
  - Multiplexmechanismen, die die Anbindung der Datenpakete an konkrete Prozesse auf den kommunizierenden Rechnern ermöglicht (Ports)
  - Verbindungslose Protokolle wie UDP
  - Verbindungsorientierte Protokolle wie TCP (Gewährleistung das Pakete vollständig am Ziel ankommen)
-#### 5. Sicherungsschicht
+#### 5. Sitzungsschicht
  - stellt kontinuierliche Kommunikation zwischen kooperierenden Anwendungen oder Prozessen zwischen verschiedenen Rechnern sicher
 - Tokens und Protokolle
 #### 6. Darstellungsschicht

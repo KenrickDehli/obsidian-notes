@@ -1,7 +1,7 @@
 # Grundlagen wirtschaftlichen Handelns
 ## Bedürfnisse
 Bedürfnisse sind im Allgemeinen ein Empfinden eines Mangelgefühls das man
-beseitgen will. Jeder Mensch hat Bedürfnisse, die in verschiedene Kategorien
+beseitigen will. Jeder Mensch hat Bedürfnisse, die in verschiedene Kategorien
 eingeteilt werden können:
 - Existenzbedürfnis → Nahrung, Kleidung, Unterkunft
 - Kulturbedürfnis → Kino, Radio, Reise, Bildung
@@ -25,16 +25,17 @@ Anwälte)
 - Gebrauchs- und Verbrauchsgüter → Beschreiben die Nutzungsdauer eines
 Gutes
 ## Ökonomisches Prinzip 
-Das ökonomische Prinzip beschreibt das Spannungsverhältnis zwischen den un-
+Das ökonomische Prinzip beschreibt das **Spannungsverhältnis** zwischen den un-
 begrenzten Bedürfnissen der Menschen und der begrenzten Anzahl an Gütern.
 Dieses Spannungsverhältnis zwingt den Menschen dazu mit den vorhandenen
 Gütern sparsam umzugehen, sodass er möglichst viele seiner Bedürfnisse be-
 friedigen kann. Der wirtschaftliche Umgang mit Gütern kann dabei durch zwei
 Prinzipien erfolgen:
-- Maximalprinzip → mit den vorhandenen Mitteln wird der maximale Erfolg
+- **Maximalprinzip** → mit den vorhandenen Mitteln wird der maximale Erfolg
 erzielt
-- Minimalprinzip → ein vorgegebenes Ziel wird mit minimalem Einsatz von
+- **Minimalprinzip** → ein vorgegebenes Ziel wird mit minimalem Einsatz von
 Mitteln erreicht
+
 Das ökonomische Prinzip lässt sich auf den betrieblichen als auch auf den pri-
 vaten Bereich anwenden.
 # Der Markt → Koordinator von Angebot & Nachfrage
@@ -62,25 +63,26 @@ etc.
 - Nach Funktionen → Beschaffungs- und Absatzmärkte
 ## Marktformen
 ### Polypol
-Ein Polypol beschreibt einen Markt mit vollständiger Konkurrenz”, da kei-
-”
-ner der Marktteilnehmer groß genug ist, um den Marktpreis zu beeinflussen.
+Ein Polypol beschreibt einen Markt mit **vollständiger Konkurrenz**, da keiner der Marktteilnehmer groß genug ist, um den Marktpreis zu beeinflussen.
 Verlangt ein Anbieter einen zu hohen Preis, so wechseln alle Nachfrager zur
 Konkurrenz. Verlangt er einen zu niedrigen Preis, so kann der Anbieter die
-Nachfrage nicht befriedigen da sein Marktanteil zu klein ist. Ein Beispiel für ein
-Polypol sind Wertpapierbörsen.
+Nachfrage nicht befriedigen da sein Marktanteil zu klein ist. 
+
+Ein Beispiel für ein Polypol sind Lebensmittelmärkte.
 ### Oligopol
 Kommt in Industriegesellschaften besonders häufig vor.
 - Angebotsoligopol → Wenig Anbieter und viele Nachfrager (Automarkt,
 Benzinmarkt)
 - Nachfrageoligopol → Vielen Anbietern stehen wenige Nachfrager gegen-
 über (viele Landwirte verkaufen an wenige Molkereien)
+
 Bei Angebotsoligopolen herrscht oft eine starke gegenseitige Abhängigkeit.
 ### Monopol
 Bei einem Monopol gibt es für eine Ware oder Dienstleistung entweder nur einen
 Anbieter oder nur einen Nachfrager am Markt.
 - Angebotsmonopol → bspw. die Wasserwerke
 - Nachfragemonopol → bspw. Bundeswehr für Schützenpanzer
+
 Auch wenn ein (Angebots-)Monopolist durch seine Stellung am Markt keine
 Rücksicht auf Konkurrenten nehmen muss, wird er schnell festellen, dass bei zu
 hohen Preisen die Nachfrage zurückgeht und ggf. auf Ersatzgüter umgestiegen
@@ -94,52 +96,38 @@ einen größtmöglichen Gewinn erzielt ohne die Nachfrager zu verjagen.
 preis erreicht wird
 - Gleichgewichtspreis → Fast alle Anbieter verkaufen ihre Ware und fast alle
 Nachfrager werden bei diesem Preis zufriedengestellt. Dadurch wird bei
-diesem Preis auch die größte Menge umgesetzt → der Markt ist geräumt”
-”
--  Nachfrage >Angebot → Preis steigt
-- Nachfrage <Angebot → Preis sinkt
+diesem Preis auch die größte Menge umgesetzt → "der Markt ist geräumt"
+-  Nachfrage > Angebot → Preis steigt
+- Nachfrage < Angebot → Preis sinkt
 - Bei einem hohen Preis wird mehr produziert
 - Bei einem niedrigen Preis wird weniger produziert
 - Selbstkosten sind die langfristige Untergrenze einer Unternehmung
+
 In der Realität spielen allerdings auch andere Faktoren eine Rolle. So möchte
 Kunde X aufgrund der Qualität seine Erdbeeren nur bei Hersteller Y kaufen
 und zahlt deshalb mehr als den Marktpreis.
 Börsen kommen dem Modell der Preisbildung allerdings sehr nahe.
 ### Preisbildung bei eingeschränkter Konkurrenz (Angebotsoligopol)
-Im Falle des Angebotsoligopol wird der Preis nicht nur durch den Nachfra-
-ger, sondern auch von Aktionen und Reaktionen der anderen Oligopolisten be-
-stimmt. Folgende Strategien kommen dabei zum Einsatz:
-- Ruinöse Konkurrenz → Anbieter wollen Konkurrenten durch Unterbie-
-tung der Preise vom Markt drängen (Im Extremfall sogar unter die Selbst-
-kosten). Dadurch entsteht ein Konkurrenzkampf der Anbieter zugunsten
-der Nachfrager
-- Preisabsprachen → Absprachen unter den Anbietern um hohe Preise zu
+Im Falle des Angebotsoligopols wird der Preis nicht nur durch den Nachfrager, sondern auch von Aktionen und Reaktionen der anderen Oligopolisten bestimmt. Folgende Strategien kommen dabei zum Einsatz:
+- **Ruinöse Konkurrenz** → Anbieter wollen Konkurrenten durch Unterbietung der Preise vom Markt drängen (Im Extremfall sogar unter die Selbstkosten). Dadurch entsteht ein Konkurrenzkampf der Anbieter zugunsten der Nachfrager
+- **Preisabsprachen** → Absprachen unter den Anbietern um hohe Preise zu
 erzielen, zum Nachteil der Nachfrager. Eine Erhöhung ist allerdings nicht
-beliebig möglich, da Nachfrager sonst zu Ersatzgütern greifen (Tee statt
+beliebig möglich, da Nachfrager sonst zu Ersatzgütern greift (Tee statt
 Kaffee). Preisabsprachen schalten allerdings den Wettbewerb aus und sind
 in Deutschland nach dem Kartellgesetz grundsätzlich verboten
-- Preisführung → ein Anbieter kann durch seinen Marktführeranteil den
+- **Preisführung** → ein Anbieter kann durch seinen Marktführeranteil den
 Preis bestimmen. Andere Anbieter mit geringerem Anteil sollten diesem
 Preis folgen um existenzbedrohenden Maßnahmen des Marktführers zu
 vermeiden
-- Qualität → Konkurrenten verlagern den Wettbewerb daher oft auf die
+- **Qualität** → Konkurrenten verlagern den Wettbewerb daher oft auf die
 Qualität, den Service oder die Werbung
 # Wettbewerbsstörungen
 ## Kartelle 
-Kartelle entstehen durch vertragliche Abmachungen von Unternehmungen der
+_Kartelle entstehen durch vertragliche Abmachungen von Unternehmungen der
 gleichen Branche, die den Wettbewerb untereinander ausschließen bzw. ein-
-schränken wollen. Dabei sind die Mitglieder rechtlich selbständig, ihre wirt-
-schaftliche Selbständigkeit jedoch nicht. Die Vereinbarungen der Kartelle enthalten bspw. Vereinbarungen über Preise, Marktaufteilung oder Lieferbedin-
-gungen. Aus diesen Absprachen können Verbraucher benachteiligt werden. Des-
-halb verbietet das Gesetz gegen Wettbewerbsbeschränkungen grundsätzlich die
-Bildung von Kartellen. Bei nicht spürbaren Absprachen (<10% gemeinsamer
-Marktanteil) werden diese allerdings nicht betrachtet. Absprachen sind auch
-möglich wenn diese den Markt nicht beeinträchtigen und bspw. den technischen
-oder wirtschaftlichen Fortschritt fördern. Kleine und Mittelständische Unter-
-nehmen haben somit die Möglichkeit zur gegenseitigen Kooperation. Alle frei-
-gestellten Kartelle unterliegen der Missbrauchsaufsicht, für die die zuständigen
-Bundesländer und länderübergreifend das Bundeskartellamt in Bonn zuständig
-ist.
+schränken wollen._
+
+Dabei sind die Mitglieder rechtlich selbständig, ihre wirtschaftliche Selbständigkeit jedoch nicht. Die Vereinbarungen der Kartelle enthalten bspw. Vereinbarungen über Preise, Marktaufteilung oder Lieferbedingungen. Aus diesen Absprachen können Verbraucher benachteiligt werden. Deshalb verbietet das Gesetz gegen Wettbewerbsbeschränkungen grundsätzlich die Bildung von Kartellen. Bei nicht spürbaren Absprachen (<10% gemeinsamer Marktanteil) werden diese allerdings nicht betrachtet. Absprachen sind auch möglich wenn diese den Markt nicht beeinträchtigen und bspw. den technischen oder wirtschaftlichen Fortschritt fördern. Kleine und Mittelständische Unternehmen haben somit die Möglichkeit zur gegenseitigen Kooperation. Alle freigestellten Kartelle unterliegen der Missbrauchsaufsicht, für die die zuständigen Bundesländer und länderübergreifend das Bundeskartellamt in Bonn zuständig ist.
 ## Unternehmenkonzentration
 - Konzerne → Zusammenfassung von rechtlich selbständigen Unternehmen
 in eine Muttergesellschaft
@@ -158,17 +146,18 @@ ten Produktionsstufen schließen sich zusammen (bspw. Erzgrube → Stahl-
 werk)
 - anorganische Konzerne → völlig Unterschiedliche Zweige (bspw. Oetker-
 Konzern)
+
 Diese Fusionen haben folgende Ursachen & Auswirkungen:
 - Fördern wirtschaftliche und technische Entwicklung
 - Bessere Stellung am Markt (extremfall sogar Monopole) → beherrschende
 Marktposition
 ## Staatliche Eingriffe
-Die Eingriffe des Staats lassen sich grundsätzlich in wettbewerbsfördernde (z.B.
-Subventionen) und wettbewerbsstörende (z.B. Einfuhrzölle) Maßnahmen eintei-
+Die Eingriffe des Staats lassen sich grundsätzlich in **wettbewerbsfördernde** (z.B.
+Subventionen) und **wettbewerbsstörende** (z.B. Einfuhrzölle) Maßnahmen eintei-
 len. Des Weiteren soll durch staatlich verordnete Monopole wie bei den Was-
 serwerken eine gleichmäßige Versorgung an die Bürger gewährleistet werden.
-Schließlich kann der Staat in den Markt eingreifen, indem er Höchstpreise und
-Mindestpreise festsetzt. Dies soll den Verbraucher vor überhöhten Preisen
+Schließlich kann der Staat in den Markt eingreifen, indem er **Höchstpreise und
+Mindestpreise** festsetzt. Dies soll den Verbraucher vor überhöhten Preisen
 schützen, kann allerdings auch dazu führen das ein Schwarzmarkt entsteht, wenn
 der Höchstpreis unter dem Gleichgewichtspreis liegt und Käufer dazu bereit sind
 mehr zu zahlen um ihren Bedarf zu befriedigen.
@@ -207,10 +196,10 @@ erzielen können.
 ## Soziale Marktwirtschaft 
 Aus den folgen des zweiten Weltkrieges und den Beobachtungen aus der freien
 Marktwirtschaft sowie der Zentralverwaltungswirtschaft wurde die Wirtschafts-
-ordnung der sozialen Marktwirtschaft entwickelt. Die persönliche Freiheit soll
+ordnung der sozialen Marktwirtschaft entwickelt. **Die persönliche Freiheit soll
 in einem hohen Maß ermöglicht werden, aber die sozialen Missstände der frei-
 en Marktwirtschaft vermieden werden. Zugunsten der wirtschaftlich Schwachen
-greift der Staat in den Wirtschaftsablauf ein.
+greift der Staat in den Wirtschaftsablauf ein.**
 Einige Merkmale der sozialen Marktwirtschaft:
 - Gewerbefreiheit, Vertragsfreiheit, freie Arbeitsplatzwahl, freie Berufswahl,
 freier Handel usw.
@@ -223,53 +212,55 @@ erforderlich
 - Artikel 20 des Grundgesetzes verpflichtet den Staat auf demokratische und
 soziale Prinzipien
 ### Instrumente des Staates
-- Sozialpolitik → Wer in Not gerät, kann auf die Hilfe der Gemeinschaft
+- **Sozialpolitik** → Wer in Not gerät, kann auf die Hilfe der Gemeinschaft
 zählen. Die Sozialversicherung hilft bei Krankheit, Arbeitsunfällen, Ar-
 beitslosigkeit und abnehmendener Schaffenskraft. Durch unterstützung
 durch den Staat sollen auch wirtschaftlich Schwache gesichert werden
 (Kindergeld, Wohngeld, Ausbildungsförderung)
-- Einkommens- und Vermögenssteuerpolitik → Derjenige der mehr Verdient
+- **Einkommens- und Vermögenssteuerpolitik** → Derjenige der mehr Verdient
 zahlt absolut und prozentual mehr Steuern (Steuerprogression).
-- Wettbewerbspolitik → Kartellgesetz und Preisgestaltung,
+- **Wettbewerbspolitik** → Kartellgesetz und Preisgestaltung,
 Produkthaftungsgesetz etc.
-- Strukturpolitik → wirtschaftlich schwache Regionen werden gefördert um
+- **Strukturpolitik** → wirtschaftlich schwache Regionen werden gefördert um
 allen Bürgern gleiche Entwicklungschancen zu ermöglichen (Zuschüsse und
 günstige Kredite für die Neugründung und Erweiterung von Betrieben).
 Betriebe werden unterstützt, wenn dadurch Arbeitsplätze gesichert werden
 können. Wichtige Wirtschaftszweige erhalten Subventionen.
-- Konjunkturpolitik → Der Staat beeinflusst die wirtschaftliche Lage, indem
+- **Konjunkturpolitik** → Der Staat beeinflusst die wirtschaftliche Lage, indem
 er seine Steuern und Staatsausgaben erhöht oder senkt.
-- Öffentliche Unternehmen → Um die Bevölkerung gleichmäßig mit wichti-
+- **Öffentliche Unternehmen** → Um die Bevölkerung gleichmäßig mit wichti-
 gen Gütern und Dienstleistungen zu versorgen, werden diese häufig von
 Öffentlichen Unternehmen angeboten (Wasserwerke, Schulen, Hochschu-
 len)
 # Sozialprodukt als gesamtwirtschaftliche Messgröße
-Um die Wirtschaftskraft eines Staates zu messen rechnet man alle Sachgüter
-und Dienstleistungen zusammen die innerhalb eines Jahres erzeugt wurden. Als
-einheitlicher Maßstab wird hierfür der Marktpreis (bezogen auf Endprodukte)
-verwendet, das summiert das Sozialprodukt genannt wird. Dabei wird auf jeder
+**Um die Wirtschaftskraft eines Staates zu messen rechnet man alle Sachgüter
+und Dienstleistungen zusammen die innerhalb eines Jahres erzeugt wurden.** Als
+einheitlicher Maßstab wird hierfür der _Marktpreis (bezogen auf Endprodukte)
+verwendet, das summiert das Sozialprodukt genannt wird._ Dabei wird auf jeder
 Produktionsstufe nur die entstandene Wertschöpfung berücksichtigt um Dop-
 pelzählungen zu vermeiden.
-- Bruttoinlandsprodukt → Fasst den Wert aller Dienstleistungen und Sachgüter
+- **Bruttoinlandsprodukt** → Fasst den Wert aller Dienstleistungen und Sachgüter
 einer Volkswirtschaft zusammen, die innerhalb der Landesgrenzen in ei-
 nem Jahr entstanden sind.
-- Bruttonationaleinkommen → Fasst den Wert der Dienstleistungen und
+- **Bruttonationaleinkommen** → Fasst den Wert der Dienstleistungen und
 Sachgüter zusammen, der von Inländern in einem Jahr erwirtschaftet wor-
 den ist.
+
 Beide Maßstäbe unterscheiden sich in ihrer Höhe nicht stark. Das BIP ist ein
 Indikator für den Wohlstand eines Landes, sagt aber über den tatsächlich Wohl-
 stand nichts aus. Für die Aussagekraft des BIP gilt zu beachten:
 - Ein Anstieg muss nicht eine gesteigerte Güterproduktion bedeuten, er
 kann auch auf Preissteigerungen zurückgeführt werden.
 - Steigen die Preise, steigt auch das nominale Bruttoinlandsprodukt.
-- Vermindert man das nominale BIP um die Preissteigerungsrate (Inflation),
-so erhält man das reale Bruttoinlandsprodukt
-- Über das reale BIP ist eine klare Aussage über die Wirtschaftsleistung
+- **Vermindert man das nominale BIP um die Preissteigerungsrate (Inflation),
+so erhält man das reale Bruttoinlandsprodukt**
+
+Über das reale BIP ist eine klare Aussage über die Wirtschaftsleistung
 eines Landes und deren Veränderungen möglich
 ## Aussagekraft des BIP
 Eine Zunahme des realen BIP bringt nicht automatisch einen höheren Lebens-
-standard mit sich. Erst wenn das reale BIP pro Kopf der Bevölkerung steigt,
-führt dies auch zu einem wachsenden Wohlstand, denn dadurch stehen jedem
+standard mit sich. **Erst wenn das reale BIP pro Kopf der Bevölkerung steigt,
+führt dies auch zu einem wachsenden Wohlstand**, denn dadurch stehen jedem
 Einwohner auch mehr Güter und Dienstleistungen zur Verfügung. Wenn die
 Bevölkerung allerdings schneller als das BIP wächst, so verschlechtert sich der
 Lebensstandard. Weitere schwächen:
@@ -283,18 +274,12 @@ tung oder Rüstung
 - Ungleiche Verteilung des Wohlstands → das BIP gibt hier keine Auskunft.
 ## Entstehung, Verwendung, Verteilung des BIP
 Das BIP wird auf drei verschiedene Arten ermittelt:
-- Entstehungsrechnung → Wo wurde das BIP erarbeitet?” → Alle Wirt-
-”
-schaftsbereiche beteiligt, Wert aller erbrachten Güter und Dienstleistun-
-gen werden zusammengezählt
-- Verwendungsrechnung → Wofür wird das BIP verwendet?” → Güter wer-
-”
-den von privaten Haushalten und Staat verbraucht, dies gibt Auskunft
+- Entstehungsrechnung → "Wo wurde das BIP erarbeitet?” → Alle Wirtschaftsbereiche beteiligt, Wert aller erbrachten Güter und Dienstleistungen werden zusammengezählt
+- Verwendungsrechnung → "Wofür wird das BIP verwendet?” → Güter werden von privaten Haushalten und Staat verbraucht, dies gibt Auskunft
 darüber wo Investitionen vermehrt oder verringert werden sollten. Der
 gesamte Verbrauch wird gemeinsam mit dem Außenbeitrag (Export - Im-
 port) verrechnet
-- Verteilungsrechnung → Wie wird das BIP verteilt?” → Gibt Auskunft
-”
+- Verteilungsrechnung → "Wie wird das BIP verteilt?” → Gibt Auskunft
 darüber, wie das Geld an die Einwohner und die Unternehmen verteilt
 wurde. Abschreibungen und indirekte Steuern können dabei nicht verteilt
 werden. Das daraus resultierende Volkseinkommen wird an Unternehmer
@@ -319,8 +304,7 @@ dung, Eigenverantwortung vermehrt nötig
 ## Subventionen
 Subventionen sind finanzielle Hilfen des Staates an private Unternehmen ohne
 Gegenleistung. Der Staat hat durch Subventionen bspw. Steinkohle auf dem
-Weltmarkt erst wettbewerbsfähig” gemacht. Diese finanziellen Hilfen erhalten
-”
+Weltmarkt erst "wettbewerbsfähig" gemacht. Diese finanziellen Hilfen erhalten
 unter anderem auch die Landwirtschaft oder die Werftindustrie. Dadurch das
 manchen Branchen sich auf den Bezug von Subventionen eingestellt haben und
 erst dadurch überleben, sind Subventionen heute sehr umstritten. Seit einiger
@@ -340,14 +324,15 @@ dagegen angekämpft werden damit Staat und Steuerzahler Geld spart.
 # Ziele der Wirtschaftspolitik & Konflikte
 Um Wirtschaftskrisen zu vermeiden, beeinflusst der Staat das Wirtschaftsge-
 schehen. Die Hauptziele der staatlichen Wirtschaftspolitik wurden 1967 im Sta-
-bilitätsgesetz (magisches Viereck) festgelegt und später um zwei Ziele erweitert
-(magisches Sechseck):
-- Preisniveaustabilität
-- hoher Beschäftigungsgrad
-- stetiges und angemessenes Wirtschaftswachstum
-- außenwirtschaftliches Gleichgewicht
-- Umweltschutz
-- Gerechte Einkommens- und Vermögensverteilung
+bilitätsgesetz (**magisches Viereck**) festgelegt und später um zwei Ziele erweitert
+(**magisches Sechseck**):
+1. Preisniveaustabilität
+2. hoher Beschäftigungsgrad
+3. stetiges und angemessenes Wirtschaftswachstum
+4. außenwirtschaftliches Gleichgewicht
+5. Umweltschutz
+6. Gerechte Einkommens- und Vermögensverteilung
+
 In der Praxis sind diese Ziele sehr schwer zu erreichen, da Maßnahmen die man
 für ein bestimmtes Ziel einführen will ein anderes behindern. Da es nahezu
 magische Kräfte benötigt alle Ziele gleichzeitig zu erreichen, spricht man vom
@@ -388,17 +373,18 @@ der Staat Maßnahmen durchführen, um eine Besserung zu erreichen.
 - Preisniveaustabilität erfordert preisdämpfende Maßnahmen, die einen ho-
 hen Beschäftigungsgrad und das Wirtschaftswachstum bedrohen.
 - Wirtschaftswachstum kann Umwelt bedrohen
+
 Da alle Hauptziele der staatlichen Wirtschaftspolitik nicht zu erreichen sind,
 versucht man sie in Einklang zu bringen → Priorisierung von Zielen.
 # Konjunkturzyklen
-Die Konjunktur bezeichnet die ständige Veränderung der Wirtschaftslage in
-denen Produktion, Nachfrage und Beschäftigung ansteigen oder zurückgehen.
+**Die Konjunktur bezeichnet die ständige Veränderung der Wirtschaftslage in
+denen Produktion, Nachfrage und Beschäftigung ansteigen oder zurückgehen.**
 Diese Wirtschaftslagen wiederholen sich alle 4 bis 11 Jahre, weshalb man von
 folgenden Konjunkturphasen redet:
-- Depression
-- Expansion
-- Boom
-- Rezession
+1. Depression
+2. Expansion
+3. Boom
+4. Rezession
 ## Depression
 - Nachfrage sinkt → Unternehmen haben Absatzschwierigkeiten
 - Produktion erreicht Tiefstand → Investitionsbereitschaft gering
@@ -434,14 +420,10 @@ wirkt der Staat in der hochkonjunktur konjunkturdämpfend (Steuererhöhung)
 und in der Rezession konjunkturbelebend (Ausgaben werden ausgeweitet) um
 die Wirtschaft anzukurbeln.
 ## Konjunkturbelebende Maßnahmen
-- Regierung erhöht Staatsaufträge → bspw. Straßen und Brücken → Ar-
-beitslosigkeit sinkt
-- Verringerung der Sparprämien soll Verbraucher bewegen ihr Geld auszu-
-geben
-- Verbesserte Abschreibungsmöglichkeiten ermöglicht Steuerersparnis für Un-
-ternehmen → Investitionswille steigt
-- Steuersenkungen → Verfügbares Einkommen steigt, private Nachfrage steigt,
-Investitionen steigen
+- Regierung erhöht Staatsaufträge → bspw. Straßen und Brücken → Arbeitslosigkeit sinkt
+- Verringerung der Sparprämien soll Verbraucher bewegen ihr Geld auszugeben
+- Verbesserte Abschreibungsmöglichkeiten ermöglicht Steuerersparnis für Unternehmen → Investitionswille steigt
+- Steuersenkungen → Verfügbares Einkommen steigt, private Nachfrage steigt, Investitionen steigen
 - Subventionen → bspw. Landwirtschaft oder Wohnungsbau
 ## Konjunkturdämpfende Maßnahmen
 - Staatsaufträge werden vermindert
@@ -458,7 +440,7 @@ schränkt möglich aufgrund von hohen Personalkosten und gesetzlich Vor-
 geschriebenen Leistungen
 ## Instrumente der Geldpolitik
 Während die Fiskalpolitik versucht, die Konjunktur zu dämpfen oder zu bele-
-ben, verfolgt die EZB das Ziel die Preisstabilität zu erhalten. Dafür versucht
+ben, verfolgt die **EZB das Ziel die Preisstabilität zu erhalten**. Dafür versucht
 sie die Geldmenge im Eurowährungsraum zu steuern. Dabei werden folgende
 Maßnahmen angewendet:
 - Offenmarktgeschäfte → Zinsen steigen oder sinken
@@ -489,3 +471,19 @@ weiter. Beispiele: Einkommenssteuer, KFZ-Steuer.
 Der Steuerpflichtige wälzt die Steuerlast auf den Endverbraucher ab. Der Un-
 ternehmer, der die Steuer abführen muss gibt diese über den Warenpreis an den
 Kunden weiter. Beispiele: Kaffeesteuer, Energiesteuer, Umsatzsteuer.
+
+## Inflation 
+Ist das Ergebnis wenn die Geldmenge größer ist als das zur Verfügung stehende Güterangebot.
+
+Unter Inflation wird eine allgemeine Preissteigerung und der damit einhergehende Geldwertverlust verstanden. Durch die Inflation sinkt die Kaufkraft des Geldes.
+
+Mögliche Ursachen: 
+1. Nachfrageinflation → gestiegene Nachfrage führt zu Preiserhöhungen
+2. importierte Inflation → VWL bezieht viele Güter aus dem Ausland und deshalb steigen die Preise
+3. Kosteninflation → Unternehmen wälzen Preissteigerungen auf den Käufer der Waren ab. 
+ 
+Auswirkungen der Inflation: 
+- Geldwert sinkt → Sparguthaben verliert an Wert
+- Kaufkraftverlust → Flucht in Sachwerte 
+- Kapitalflucht
+- Wert der Schulden verringert sich

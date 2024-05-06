@@ -692,11 +692,11 @@ denen die Leitlinie umgesetzt werden kann.
 
 ### Sicherheitskonzept
 
-![image](Sicherheitskonzept){width="\\linewidth"}
+![[Sicherheitskonzept.png]]
 
 ## Schutzbedarfsfeststellung Abteilung Entwicklung
 
-![image](Schutzbedarf){width="\\linewidth"}
+![[Schutzbedarf.png]]
 
 ## IT-Sicherheitsgesetz
 
@@ -705,8 +705,8 @@ und digitalen Infrastrukturen Deutschlands zu den sichersten Weltweit zu
 machen. Dabei hat es vor allem die IT-Systeme der kritischen
 Infrastrukturen (Versorgung der Allgemeinheit) im Blick.
 
-![image](Störung){width="\\linewidth"}
-![image](Sicherheit){width="\\linewidth"}
+![[Störung.png]]
+![[Sicherheit.png]]
 
 ## Verschlüsselung
 
@@ -714,9 +714,11 @@ Infrastrukturen (Versorgung der Allgemeinheit) im Blick.
 
 Für die symmetrische Ver- und Entschlüsselung ist es wichtig, dass
 sowohl Sender als auch Empfänger denselben (geheimen) Schlüssel
-benutzen. Die Daten werden mit dem Schlüssel verschlüsselt und ebenfalss
+benutzen. Die Daten werden mit dem Schlüssel verschlüsselt und ebenfalls
 entschlüsselt. Das Verfahren ist sicher, solange der Schlüssel wirklich
 nur den beiden Parteien bekannt ist.
+
+Beispiel → AES
 
 ### Asymmetrische Verschlüsselung
 
@@ -730,9 +732,10 @@ privaten Schlüssel erfolgen. Das Verfahren ist problematisch, wenn der
 der öffentliche Schlüssel nur an die berechtigten Personen verteilt
 werden.
 
+Beispiel → SSL
 ### Sicherheitsstandards
 
-![image](Sicherheitsstandard){width="\\linewidth"}
+![[Sicherheitsstandard.png]]
 
 # Fachkompetenz IT-Systeme
 
@@ -778,7 +781,7 @@ Archiv reibungslos migrieren zu können.
 
 ### Lebensdauer Speichermedien
 
-![image](Speichermedien){width="\\linewidth"}
+![[Speichermedien.png]]
 
 ## Konzeption einer IT-Austtatung
 
@@ -1159,7 +1162,7 @@ verschiedenen Medien an mindestens 1 externen Standort.
 
 ## Unterbrechungsfreie Stromversorgung (USV)
 
-![image](USV){width="\\linewidth"}
+![[USV.png]]
 
 # Fachkompetenz Software
 
@@ -2224,11 +2227,11 @@ halten
 
 -   geringerer Kapitalbedarf bei Investitionen
 
-![image](Leasingclac){width="\\linewidth"}
+![[Leasingclac.png]]
 
 ### Leasing vs. Kreditfinanzierung
 
-![image](LeasingKredit){width="\\linewidth"}
+![[LeasingKredit.png]]
 
 ## Der Beschaffungsprozess
 
@@ -2510,7 +2513,7 @@ Handelsvertretern in die Kalkulation
 -   Kunderabatt: Kann als Mengen- oder Sonderrabatt einkalkuliert
 werden.
 
-![image](Zuschlagskalkulation){width="\\linewidth"}
+![[Zuschlagskalkulation.png]]
 
 ### Rückwärtskalkulation
 
@@ -2522,7 +2525,7 @@ als Listenverkaufspreis angegeben und man kalkuliert rückwärts bis zum
 Listeneinkaufspreis. Dabei zu beachten sind die umgedrehten
 Prozentsätze.
 
-![image](Rückwärtskalkulation){width="\\linewidth"}
+![[Rückwärtskalkulation.png]]
 
 ### Differenz- und Gewinnkalkulation
 
@@ -2533,7 +2536,7 @@ Differenz ergibt sich der Gewinn. Wenn dieser angemessen ist, geht der
 Auftragnehmer das Geschäft ein. Anhand des Gewinns in EUR, sowie der
 Selbstkosten lässt sich der Gewinnzuschlag in Prozent berechnen.
 
-![image](Differenzkalkulation){width="\\linewidth"}
+![[Differenzkalkulation.png]]
 
 ### Zuschlagsfaktor und Handelsspanne
 
